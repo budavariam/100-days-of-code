@@ -203,3 +203,17 @@ A media query was already there for dark mode in the 11ty/eleventy-base-blog the
 **Thoughts**:
 
 **Link(s) to work**: [Add basic dark mode by budavariam · Pull Request #1 · budavariam/learning-spanish](https://github.com/budavariam/learning-spanish/pull/1/files)
+
+## Day 16: 2022-08-22
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1561835199213838340)
+
+**Today's Progress**: `#100DaysOfCode` Day 16
+
+In order to see how I perform in this challenge, I started to create an automated git chart-like progress meter. Boxes have different colors based on the number of reactions to these tweets. Hope it helps me be more consistent. 📈
+
+**Thoughts**: This is not ready yet, I have some improvement ideas already. The tricky part will be to add hovering and navigation.
+
+**Link(s) to work**: [100 Days Of Code - Log](https://budavariam.github.io/100-days-of-code/log.html)
+
+![None](assets/day-16.jpg)
