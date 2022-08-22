@@ -90,21 +90,27 @@ def update_last_line(num):
     with open("./LAST_DAY", 'w') as lastday:
         lastday.write(str(num))
 
-def update_stats(tweet_id,daynum,created_date,public_metrics):
+def update_stats(stat_lines):
+    header = "daynum,id,date,retweet_count,reply_count,like_count,quote_count" + "\n"
     # todo make it update the last N lines as well, not in a greedy way maybe be smart and handle it as csv, ffirst collect then update the data
-    with open("./STATS", 'a') as stats:
-        # public_metrics: {'retweet_count': 1, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}
-        stat_data = [
-            str(daynum),
-            str(tweet_id),
-            created_date.split("T")[0],
-            str(public_metrics.get("retweet_count")),
-            str(public_metrics.get("reply_count")),
-            str(public_metrics.get("like_count")),
-            str(public_metrics.get("quote_count")),
-        ]
-        stat_line = ",".join(stat_data) + "\n"
-        stats.write(stat_line)
+    final = [header]
+    with open("./STATS", 'w') as stats:
+        for data in stat_lines:
+            [tweet_id,daynum,created_date,public_metrics] = data
+            # public_metrics: {'retweet_count': 1, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}
+            stat_data = [
+                str(daynum),
+                str(tweet_id),
+                created_date.split("T")[0],
+                str(public_metrics.get("retweet_count")),
+                str(public_metrics.get("reply_count")),
+                str(public_metrics.get("like_count")),
+                str(public_metrics.get("quote_count")),
+            ]
+            stat_line = ",".join(stat_data) + "\n"
+            final.append(stat_line)
+        stats.writelines(final)
+    logger.info("Stats written")
 
 def update_log(tweet_id, daynum, created_date,txt,web_attachment,image_attachment):
     formatted_date = created_date.split("T")[0]
@@ -137,6 +143,7 @@ def update_log(tweet_id, daynum, created_date,txt,web_attachment,image_attachmen
 
 def main():
     last_day = get_last_visited_day()
+    stat_data = []
     logger.info("Last visited day is: %d", last_day)
     for [daynum, id] in IDS:
 
@@ -149,16 +156,13 @@ def main():
         web_attachment = get_web_attachment_url(tweet)
         image_attachment = download_image_attachment(daynum, tweet)
 
-        # only update the text log for the last N item
-        if daynum <= last_day - 2:
-            continue
-        update_stats(id,daynum,created_date, public_metrics)
+        stat_data.append([id,daynum,created_date, public_metrics])
         if daynum <= last_day:
             continue
         # only update the text log for the last item
         update_log(id, daynum, created_date,txt,web_attachment,image_attachment)
         update_last_line(daynum)
-
+    update_stats(stat_data)
 
 
     logger.info("DONE")
