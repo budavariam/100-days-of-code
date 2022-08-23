@@ -217,3 +217,13 @@ In order to see how I perform in this challenge, I started to create an automate
 **Link(s) to work**: [100 Days Of Code - Log](https://budavariam.github.io/100-days-of-code/log.html)
 
 ![None](assets/day-16.jpg)
+
+## Day 17: 2022-08-23
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1562179840664653824)
+
+**Today's Progress**: `#100DaysOfCode` Day 17
+
+Today I took a deep dive into Kubernetes' job parallelization options and configurations.
+
+**Thoughts**: Time well spent.
