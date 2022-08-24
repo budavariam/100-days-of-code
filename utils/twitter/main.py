@@ -153,13 +153,14 @@ def main():
         txt = get_text(tweet)
         created_date = get_created_date(tweet)
         public_metrics = get_public_metrics(tweet)
-        web_attachment = get_web_attachment_url(tweet)
-        image_attachment = download_image_attachment(daynum, tweet)
 
         stat_data.append([id,daynum,created_date, public_metrics])
+        # assuming we only add 1 new line at once
         if daynum <= last_day:
             continue
-        # only update the text log for the last item
+        # only update the text log, and get attachments for the last item
+        web_attachment = get_web_attachment_url(tweet)
+        image_attachment = download_image_attachment(daynum, tweet)
         update_log(id, daynum, created_date,txt,web_attachment,image_attachment)
         update_last_line(daynum)
     update_stats(stat_data)

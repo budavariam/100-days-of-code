@@ -227,3 +227,13 @@ In order to see how I perform in this challenge, I started to create an automate
 Today I took a deep dive into Kubernetes' job parallelization options and configurations.
 
 **Thoughts**: Time well spent.
+
+## Day 18: 2022-08-24
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1562476098428219393)
+
+**Today's Progress**: `#100DaysOfCode` Day 18
+
+Today I took an unplanned deep dive into `#kubernetes` networkPolicies and network-related investigations tackling possible kube-dns issues, port forwarding, and probing different service port accesses
+
+**Thoughts**: Long ride with a happy end. Learned a lot, and cleared up many of my assumptions. Now I want to have a custom docker image even more, that has all my favourite debbugging tools. I need at least `netcat`/`telnet`, `ping`, `nslookup`, `dig`, `bash`, `python`, `curl`/`wget`
