@@ -10,7 +10,7 @@ function tooltipInit() {
         const date = elem.getAttribute('data-date');
         if (count > 0) {
             tip.style.display = 'block';
-            tip.textContent = `${count} impressions on ${date}`;
+            tip.textContent = `${count} impression${count > 1 ? "s" : ""} on ${date}`;
             const w = tip.getBoundingClientRect().width;
             tip.style.left = `${rect.left - (w / 2) + 6}px`;
             tip.style.top = `${rect.top - 35}px`;
