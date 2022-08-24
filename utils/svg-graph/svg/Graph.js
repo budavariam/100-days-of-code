@@ -24,7 +24,7 @@ export default function Graph(document, root, {
     const dataTmp = data.reduce((memo, v, i) => {
         memo[v.date] = {
             cnt: v.count,
-            dID: i
+            dID: i + 1 // reduxe index start from 0, dayindex start from 1
         }
         return memo;
     }, {});
