@@ -16,13 +16,16 @@ export default function Graph(document, root, {
     padX = 20,
     padY = 20,
     styleOptions = {},
-    onClick = noop, 
+    onClick = noop,
     onHover = noop,
 }) {
     const values = [];
     const days = diffDays(startDate, endDate);
-    const dataTmp = data.reduce((memo, v) => {
-        memo[v.date] = v.count;
+    const dataTmp = data.reduce((memo, v, i) => {
+        memo[v.date] = {
+            cnt: v.count,
+            dID: i
+        }
         return memo;
     }, {});
     // Compute values
@@ -32,14 +35,20 @@ export default function Graph(document, root, {
         date.setDate(date.getDate() + i);
 
         const day = date.getDay();
-        const count = dataTmp[formatDate(date)] || 0;
+        const dayData = dataTmp[formatDate(date)]
+        const count = dayData?.cnt || 0;
 
         if ((day === 0 && i !== 0) || i === 0) {
             values.push([]);
             group += 1;
         }
 
-        values[group - 1].push({ count, date, day, dayID: `day-${day}-${formatDate(date)}` });
+        values[group - 1].push({
+            count,
+            date,
+            day,
+            dayID: dayData ? `day-${dayData.dID}-${formatDate(date)}` : ""
+        });
     }
 
     const s = size + space * 2;
@@ -51,22 +60,22 @@ export default function Graph(document, root, {
     const attrs = {
         styles, values, size, space, colorFun, padX, padY, onClick, onHover
     };
-    
+
     root.setAttribute("width", width)
     root.setAttribute("height", height)
     root.setAttribute("viewBox", box)
-    
+
     const borderNode = document.createElement("rect")
     borderNode.setAttribute("x", 0)
     borderNode.setAttribute("y", 0)
     borderNode.setAttribute("width", width)
     borderNode.setAttribute("height", height)
     borderNode.setAttribute("fill", "#fff")
-    
+
     root.appendChild(borderNode)
-    root.appendChild(Days(document,attrs))
-    root.appendChild(Months(document,attrs))
-    root.appendChild(DayTitles(document,attrs))
+    root.appendChild(Days(document, attrs))
+    root.appendChild(Months(document, attrs))
+    root.appendChild(DayTitles(document, attrs))
 
     return root
 }
