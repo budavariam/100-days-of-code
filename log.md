@@ -1,7 +1,5 @@
 # 100 Days Of Code - Log
 
-<!-- ![See my progress](./progress-chart.svg) -->
-
 {% include_relative progress-chart.svg %}
 
 ## Day 1: 2022-07-02
