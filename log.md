@@ -2,6 +2,43 @@
 
 {% include_relative progress-chart.svg %}
 
+{::nomarkdown}
+<script>
+{% include_relative progress-chart-tooltip.js %}
+</script>
+<style>
+body {
+    font-size: 14px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+#tooltip {
+    display: none;
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 20px;
+    background-color: rgba(0, 0, 0, .8);
+    color: #fff;
+    padding: 4px 10px;
+    border-radius: 3px;
+}
+#tooltip:after {
+    display: block;
+    position: absolute;
+    content: '';
+    bottom: -6px;
+    left: 50%;
+    margin-left: -6px;
+    width: 0; 
+    height: 0; 
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 6px solid rgba(0, 0, 0, .8);
+}
+</style>
+<div id="tooltip">Hello world</div>
+{:/}
+
 ## Day 1: 2022-07-02
 
 [Tweet](https://twitter.com/BudavariMatyas/status/1543250339385823232)
