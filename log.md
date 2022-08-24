@@ -3,6 +3,7 @@
 {% include_relative progress-chart.svg %}
 
 {::nomarkdown}
+<div id="tooltip">...</div>
 <script>
 {% include_relative progress-chart-tooltip.js %}
 </script>
@@ -36,7 +37,6 @@ body {
     border-top: 6px solid rgba(0, 0, 0, .8);
 }
 </style>
-<div id="tooltip">Hello world</div>
 {:/}
 
 ## Day 1: 2022-07-02
