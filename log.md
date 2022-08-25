@@ -247,3 +247,17 @@ Today I took a deep dive into Kubernetes' job parallelization options and config
 Today I took an unplanned deep dive into `#kubernetes` networkPolicies and network-related investigations tackling possible kube-dns issues, port forwarding, and probing different service port accesses
 
 **Thoughts**: Long ride with a happy end. Learned a lot, and cleared up many of my assumptions. Now I want to have a custom docker image even more, that has all my favourite debbugging tools. I need at least `netcat`/`telnet`, `ping`, `nslookup`, `dig`, `bash`, `python`, `curl`/`wget`
+
+## Day 19: 2022-08-25
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1562853199744466945)
+
+**Today's Progress**: `#100DaysOfCode` Day 19 
+
+I've added minor enhancements to my progress page. I ensured that the minimal default `#jekyll` `#githubPages` template embeds the SVG, then I added basic tooltips and click navigation handling to my contribution chart.
+
+**Thoughts**: I still see many parts to improve, better fonts, nicer look for the small boxes, and showing the day number in the tooltip. Mobile view, tooltip shall not get out of the scrreen, but it's good for now.
+
+**Link(s) to work**: [100 Days Of Code - Log](https://budavariam.github.io/100-days-of-code/log.html)
+
+![github chart-like contribution graph progress meter for "100 Days of code" challenge. Hovering on a day showing 55 impressions on that day.](assets/day-19.jpg)
