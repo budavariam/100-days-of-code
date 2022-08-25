@@ -14,8 +14,6 @@ function generate(data = []) {
     data,
     startDate: startDate,
     endDate: endDate,
-    // onClick: (v) => `window.open("#asd", "_blank")`,
-    onClick: (v) => { return v.dayID ? `document.getElementById('${v.dayID}')?.scrollIntoView();` : '' },
   });
 
   const xml = xmlSerializer.serializeToString(graph);

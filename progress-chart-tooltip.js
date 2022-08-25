@@ -20,13 +20,28 @@ function tooltipInit() {
         e = e || window.event;
         tip.style.display = 'none';
     };
+
+    const click = function (e) { 
+        const elem = e.target || e.srcElement;
+        const date = elem.getAttribute('data-date');
+        const dayNum = elem.getAttribute('data-daynum');
+        const targetID = `day-${dayNum}-${date}`
+        const targetLink = document.getElementById(targetID)
+        if (targetLink) {
+            targetLink.scrollIntoView()
+        }
+        tip.style.display = 'none';
+    }
+    
     for (let i = 0; i < elems.length; i++) {
         if (elems[i].addEventListener) {
             elems[i].addEventListener('mouseover', mouseOver, false);
             elems[i].addEventListener('mouseout', mouseOut, false);
+            elems[i].addEventListener('click', click, false);
         } else {
             elems[i].attachEvent('onmouseover', mouseOver);
             elems[i].attachEvent('onmouseout', mouseOut);
+            elems[i].attachEvent('click', click);
         }
     }
 }

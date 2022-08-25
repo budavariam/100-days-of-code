@@ -37,6 +37,7 @@ export default function Graph(document, root, {
         const day = date.getDay();
         const dayData = dataTmp[formatDate(date)]
         const count = dayData?.cnt || 0;
+        const dayID = dayData?.dID || 0;
 
         if ((day === 0 && i !== 0) || i === 0) {
             values.push([]);
@@ -47,7 +48,7 @@ export default function Graph(document, root, {
             count,
             date,
             day,
-            dayID: dayData ? `day-${dayData.dID}-${formatDate(date)}` : ""
+            dayID,
         });
     }
 

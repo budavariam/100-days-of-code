@@ -21,8 +21,11 @@ export default function Days(document, {
       dayNode.setAttribute("fill", colorFun(day))
       dayNode.setAttribute("data-count", day.count)
       dayNode.setAttribute("data-date", formatDate(day.date))
-      dayNode.setAttribute("onclick", onClick(day))
-      dayNode.setAttribute("onmouseover", onHover(day))
+      if (day.dayID) {
+        dayNode.setAttribute("data-daynum", day.dayID)
+      }
+      // dayNode.setAttribute("onclick", onClick(day))
+      // dayNode.setAttribute("onmouseover", onHover(day))
       dayGroup.appendChild(dayNode)
     }
     weekGroup.appendChild(dayGroup)
