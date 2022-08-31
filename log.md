@@ -274,3 +274,15 @@ In the meantime, I've fixed many typos in my cheat sheet 🙈
 **Thoughts**: I did not forget as much as I thought.
 
 **Link(s) to work**: [learn-vim/vim-cheatsheet.md at master · budavariam/learn-vim](https://github.com/budavariam/learn-vim/blob/master/vim-cheatsheet.md)
+
+## Day 21: 2022-08-31
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1565115297635393538)
+
+**Today's Progress**: `#100DaysOfCode` Day 21
+
+I've recreated this Pac-Man scene in "just" 482 bytes of `#css`! Having fun in this crazy `#cssBattleChallenge` golfing game via `@css_battle`
+
+**Thoughts**: This was the first time I used box-shadow in cssBattle, totally worth it. It's also nice to put in my trials into github so that I can learn from the steps later.
+
+**Link(s) to work**: [Pacman - Mátyás Budavári](https://budavariam.github.io/css-battle-showcase/battles/20-hover/119-pacman)
