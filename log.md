@@ -261,3 +261,16 @@ I've added minor enhancements to my progress page. I ensured that the minimal de
 **Link(s) to work**: [100 Days Of Code - Log](https://budavariam.github.io/100-days-of-code/log.html)
 
 ![github chart-like contribution graph progress meter for "100 Days of code" challenge. Hovering on a day showing 55 impressions on that day.](assets/day-19.jpg)
+
+## Day 20: 2022-08-31
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1565068098067128320)
+
+**Today's Progress**: `#100DaysOfCode` Day 20
+
+Today I revisited vim commands and shortcuts.
+In the meantime, I've fixed many typos in my cheat sheet 🙈
+
+**Thoughts**: I did not forget as much as I thought.
+
+**Link(s) to work**: [learn-vim/vim-cheatsheet.md at master · budavariam/learn-vim](https://github.com/budavariam/learn-vim/blob/master/vim-cheatsheet.md)
