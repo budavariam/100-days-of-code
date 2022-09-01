@@ -275,7 +275,7 @@ In the meantime, I've fixed many typos in my cheat sheet 🙈
 
 **Link(s) to work**: [learn-vim/vim-cheatsheet.md at master · budavariam/learn-vim](https://github.com/budavariam/learn-vim/blob/master/vim-cheatsheet.md)
 
-## Day 21: 2022-08-31
+## Day 21: 2022-09-01
 
 [Tweet](https://twitter.com/BudavariMatyas/status/1565115297635393538)
 

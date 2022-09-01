@@ -5,7 +5,11 @@ import re
 import os
 from dotenv import load_dotenv
 import progress
+import pytz
+import dateutil.parser
 
+CET=pytz.timezone('Europe/Budapest')
+BST=pytz.timezone('Europe/London')
 load_dotenv() # take environment variables from .env.
 BEARER_TOKEN = os.getenv("BEARER_TOKEN")
 ADD_THOUGHTS = True
@@ -26,7 +30,12 @@ def get_text(tweet):
     return tweet.get('data').get('text')
 
 def get_created_date(tweet):
-    return tweet.get('data').get('created_at')
+    """ Use BST so 1 AM marks a new day """
+    # '%Y-%m-%dT%H:%M:%S.%fZ'
+    date_str=tweet.get('data').get('created_at')
+    date_datetime=dateutil.parser.isoparse(date_str)
+    result = date_datetime.astimezone(tz=BST).isoformat()
+    return result
 
 def download_image_attachment(daynum, tweet):
     includes = tweet.get('includes')
