@@ -12,7 +12,7 @@ python3 main.py
 deactivate
 popd || exit 1
 
-echo "---- generating progrress chart"
+echo "---- generating progress chart"
 pushd utils/svg-graph || exit 1
 npm run build
 popd || exit 1
