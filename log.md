@@ -286,3 +286,13 @@ I've recreated this Pac-Man scene in "just" 482 bytes of `#css`! Having fun in t
 **Thoughts**: This was the first time I used box-shadow in cssBattle, totally worth it. It's also nice to put in my trials into github so that I can learn from the steps later.
 
 **Link(s) to work**: [Pacman - Mátyás Budavári](https://budavariam.github.io/css-battle-showcase/battles/20-hover/119-pacman)
+
+## Day 22: 2022-09-02
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1565780451389734915)
+
+**Today's Progress**: `#100DaysOfCode` Day 22
+
+Since I've made a design mistake of trusting my twitter posts timestamps for the progress logs, I needed to revisit my python datetime parsing knowledge and figure out a sweet compromise with my daily schedule. I'll use UTC+1 instead of CET to gain an hour.
+
+**Thoughts**: I still messed up the first day, but whatevs.
