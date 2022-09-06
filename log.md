@@ -296,3 +296,15 @@ I've recreated this Pac-Man scene in "just" 482 bytes of `#css`! Having fun in t
 Since I've made a design mistake of trusting my twitter posts timestamps for the progress logs, I needed to revisit my python datetime parsing knowledge and figure out a sweet compromise with my daily schedule. I'll use UTC+1 instead of CET to gain an hour.
 
 **Thoughts**: I still messed up the first day, but whatevs.
+
+## Day 23: 2022-09-06
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1567267419491631106)
+
+**Today's Progress**: `#100DaysOfCode` Day 23
+
+I started to get familiar with VSCode extension creation. I went through getting started guides and started to tweak sample codes
+
+I'd like a new functionality, that I hadn't yet found an extension for. Let's see if it's possible and whether I can create it
+
+**Thoughts**: I've already found some seemingly blocker problems, but I'm still taking a deep dive into the docs.
