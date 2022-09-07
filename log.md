@@ -308,3 +308,17 @@ I started to get familiar with VSCode extension creation. I went through getting
 I'd like a new functionality, that I hadn't yet found an extension for. Let's see if it's possible and whether I can create it
 
 **Thoughts**: I've already found some seemingly blocker problems, but I'm still taking a deep dive into the docs.
+
+## Day 24: 2022-09-07
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1567627459410919424)
+
+**Today's Progress**: `#100DaysOfCode` Day 24
+
+I've created a POC usable working version of my very first `#VSCodeExtension`
+
+It adds static autocomplete values into my .md files under optionally specified paths. I can even customize description texts or icons, all from the config
+
+**Thoughts**: I extracted my code from yesterday's poc and was able to generate a new config, and even figure out how to debug it. The activators tricked me. It's probably not the most performant extension ever, but I only plan to use it locally just yet.
+
+**Link(s) to work**: [GitHub - budavariam/vscode-static-autocomplete: Static Autocompletion into Markdown documents](https://github.com/budavariam/vscode-static-autocomplete)
