@@ -322,3 +322,19 @@ It adds static autocomplete values into my .md files under optionally specified 
 **Thoughts**: I extracted my code from yesterday's poc and was able to generate a new config, and even figure out how to debug it. The activators tricked me. It's probably not the most performant extension ever, but I only plan to use it locally just yet.
 
 **Link(s) to work**: [GitHub - budavariam/vscode-static-autocomplete: Static Autocompletion into Markdown documents](https://github.com/budavariam/vscode-static-autocomplete)
+
+## Day 25: 2022-09-08
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1567929821103013889)
+
+**Today's Progress**: `#100DaysOfCode` Day 25
+
+I added a command to my `#VSCodeExtension` to reload the static autocomplete items
+
+I added a  *contributes.configuration* part into the metadata info
+
+I started to experiment with ConventionalCommits and I also updated the changelog
+
+**Thoughts**: I'd like to add proper github releases and figure out a better git tagging experience. The docs are still ugly and unchanged, also I might see how can I publish an extension soon.
+
+**Link(s) to work**: [[0.0.2] Reload configurations by budavariam · Pull Request #1 · budavariam/vscode-static-autocomplete](https://github.com/budavariam/vscode-static-autocomplete/pull/1/files)
