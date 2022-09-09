@@ -338,3 +338,20 @@ I started to experiment with ConventionalCommits and I also updated the changelo
 **Thoughts**: I'd like to add proper github releases and figure out a better git tagging experience. The docs are still ugly and unchanged, also I might see how can I publish an extension soon.
 
 **Link(s) to work**: [[0.0.2] Reload configurations by budavariam · Pull Request #1 · budavariam/vscode-static-autocomplete](https://github.com/budavariam/vscode-static-autocomplete/pull/1/files)
+
+## Day 26: 2022-09-09
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1568290890136932356)
+
+**Today's Progress**: `#100DaysOfCode` Day 26
+
+Today I rethought my daily processes
+
+For my upcoming meetings, I can automatically set up schedules to open templated notes just a few minutes before the meetings
+
+'at' seems perfect for scheduling later execution.
+I made it work
+
+**Thoughts**: cronjobs is not idiomatic forrr this task, nor do I want to keep a serveer running for this. `at` seems perfect. I'll start it from python. I saw it working, just have to connect with csvlike eventlist reading and add some "AI" for meeting vs template matching.
+
+**Link(s) to work**: [at (command) - Wikipedia](https://en.wikipedia.org/wiki/At_(command))
