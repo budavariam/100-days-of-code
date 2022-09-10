@@ -355,3 +355,15 @@ I made it work
 **Thoughts**: cronjobs is not idiomatic forrr this task, nor do I want to keep a serveer running for this. `at` seems perfect. I'll start it from python. I saw it working, just have to connect with csvlike eventlist reading and add some "AI" for meeting vs template matching.
 
 **Link(s) to work**: [at (command) - Wikipedia](https://en.wikipedia.org/wiki/At_(command))
+
+## Day 27: 2022-09-10
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1568710841410650112)
+
+**Today's Progress**: `#100DaysOfCode` Day 27
+
+Today I quickly drafted the wireframe of the POC for my automated meeting-note creator/opener. The base functionality works, need to polish it.
+
+I learned about queues in 'at', I can simply categorize my schedules, and it's easy to clear a subset of jobs.
+
+**Thoughts**: I need to come  up with the proper data structures, but the job reset and creation already works. I think it might work properly next week
