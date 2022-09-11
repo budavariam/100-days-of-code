@@ -367,3 +367,17 @@ Today I quickly drafted the wireframe of the POC for my automated meeting-note c
 I learned about queues in 'at', I can simply categorize my schedules, and it's easy to clear a subset of jobs.
 
 **Thoughts**: I need to come  up with the proper data structures, but the job reset and creation already works. I think it might work properly next week
+
+## Day 28: 2022-09-11
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1569025458745839617)
+
+**Today's Progress**: `#100DaysOfCode` Day 28
+
+I've worked on my meeting note auto-opener. I've put together templates for different event categories and coded the template selection logic.
+
+I cleaned up the code and moved the configurable parts closer together
+
+I can see how it fits me from tomorrow 🚀
+
+**Thoughts**: I need to clean up the input CSV generator logic. I use a really old event list generator that I need to enhance.
