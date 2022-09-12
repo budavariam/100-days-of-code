@@ -381,3 +381,15 @@ I cleaned up the code and moved the configurable parts closer together
 I can see how it fits me from tomorrow 🚀
 
 **Thoughts**: I need to clean up the input CSV generator logic. I use a really old event list generator that I need to enhance.
+
+## Day 29: 2022-09-12
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1569407287311073281)
+
+**Today's Progress**: `#100DaysOfCode` Day 29
+
+Today I saw that my calendar-based auto note-opener worked like a charm in a real-life scenario 🤓🥳
+
+I cleaned up the logs into human-readable form for regular usage. I moved the detailed info into debug/trace level. I also handled some tricky exceptions
+
+**Thoughts**: I did not have mmuch time to develop, I use uuid-s for the events in case they don't have proper identifiers
