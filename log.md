@@ -393,3 +393,17 @@ Today I saw that my calendar-based auto note-opener worked like a charm in a rea
 I cleaned up the logs into human-readable form for regular usage. I moved the detailed info into debug/trace level. I also handled some tricky exceptions
 
 **Thoughts**: I did not have mmuch time to develop, I use uuid-s for the events in case they don't have proper identifiers
+
+## Day 30: 2022-09-13
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1569578806306013190)
+
+**Today's Progress**: `#100DaysOfCode` Day 30
+
+I optimized the single-day event collection speed ⚡️
+
+Getting events from Calendar app is tricky. For reoccurring events, you must get the original entry to tell today's ones
+
+BUT by using `#PyObjC`, I could fetch the events from the CalendarStore directly 🎉
+
+**Thoughts**: Today I wanted to switch to a new calendar. The `Calendar` app could not comprehend the size of my new calendar for event collection. Luckily I was using `.csv` for the events from the start, so I could extract the generator logic in any way I wanted.
