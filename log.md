@@ -407,3 +407,17 @@ Getting events from Calendar app is tricky. For reoccurring events, you must get
 BUT by using `#PyObjC`, I could fetch the events from the CalendarStore directly 🎉
 
 **Thoughts**: Today I wanted to switch to a new calendar. The `Calendar` app could not comprehend the size of my new calendar for event collection. Luckily I was using `.csv` for the events from the start, so I could extract the generator logic in any way I wanted.
+
+## Day 31: 2022-09-14
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1570141207472242690)
+
+**Today's Progress**: `#100DaysOfCode` Day 31
+
+Today I tweaked my calendar-based auto note-opener
+
+I added `#osascript` dialog prompt for meetings without a defined template. Asking the user if it should create the notes or not
+
+I unified the logging messages and made sure that error messages are kept
+
+**Thoughts**: I see many ways to improve the extensibility of my code. I'm thinking of adding more templates to choose from per event type.
