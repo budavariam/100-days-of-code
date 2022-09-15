@@ -18,9 +18,13 @@ export default function Days(document, {
       dayNode.setAttribute("y", day.day * s + y0)
       dayNode.setAttribute("width", size)
       dayNode.setAttribute("height", size)
+      dayNode.setAttribute("rx", "2")
+      dayNode.setAttribute("ry", "2")
       dayNode.setAttribute("fill", colorFun(day))
+      dayNode.setAttribute("style", "shape-rendering: geometricPrecision;outline: 1px solid #1b1f230f;outline-offset: -1px;")
       dayNode.setAttribute("data-count", day.count)
       dayNode.setAttribute("data-date", formatDate(day.date))
+
       if (day.dayID) {
         dayNode.setAttribute("data-daynum", day.dayID)
       }

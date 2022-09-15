@@ -26,7 +26,7 @@ export function oneYearPlus(startDate) {
   return d;
 }
 
-const colors = ['#eee', '#c6e48b', '#7bc96f', '#239a3b', '#196127'];
+const colors = ['#eee', '#9be9a8', '#40c463', '#30a14e', '#216e39'];
 export function rectColor(v) {
   if (!v.count) {
     return colors[0];
