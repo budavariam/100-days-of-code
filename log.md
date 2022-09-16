@@ -421,3 +421,15 @@ I added `#osascript` dialog prompt for meetings without a defined template. Aski
 I unified the logging messages and made sure that error messages are kept
 
 **Thoughts**: I see many ways to improve the extensibility of my code. I'm thinking of adding more templates to choose from per event type.
+
+## Day 32: 2022-09-16
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1570663146305589248)
+
+**Today's Progress**: `#100DaysOfCode` Day 32
+
+Today I got started with `@NotionHQ` API. I learned how to create and connect an integration to a db.
+
+I've added an option to my calendar-based auto note-opener to create new notes in Notion, then open the application if it's available, otherwise open in web
+
+**Thoughts**: I wanted to try how tweet scheduling works. I failed to hit the schedule button when I started to edit, so I lost a day again...
