@@ -433,3 +433,19 @@ Today I got started with `@NotionHQ` API. I learned how to create and connect an
 I've added an option to my calendar-based auto note-opener to create new notes in Notion, then open the application if it's available, otherwise open in web
 
 **Thoughts**: I wanted to try how tweet scheduling works. I failed to hit the schedule button when I started to edit, so I lost a day again...
+
+## Day 33: 2022-09-17
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1571060491702931457)
+
+**Today's Progress**: `#100DaysOfCode` Day 33
+
+An ongoing battle at `@css_battle` is available at 👉 ⚔️
+
+🎨 I've been working on my solutions in the last few days.
+
+📈 I still have room for improvement
+
+**Thoughts**: The positioning in the letter R is not good at all... I need to look at some better positioning hacks.
+
+**Link(s) to work**: [CSSBattle](https://cssbattle.dev/battle/21)
