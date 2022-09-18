@@ -449,3 +449,13 @@ An ongoing battle at `@css_battle` is available at 👉 ⚔️
 **Thoughts**: The positioning in the letter R is not good at all... I need to look at some better positioning hacks.
 
 **Link(s) to work**: [CSSBattle](https://cssbattle.dev/battle/21)
+
+## Day 34: 2022-09-18
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1571614391224647682)
+
+**Today's Progress**: `#100DaysOfCode` Day 34
+
+Today I drafted a random crossword generator to help me practice Spanish words in a daily manner
+
+**Thoughts**: I have the stack, I collected some words POC is on the way.
