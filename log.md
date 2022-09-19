@@ -459,3 +459,23 @@ An ongoing battle at `@css_battle` is available at 👉 ⚔️
 Today I drafted a random crossword generator to help me practice Spanish words in a daily manner
 
 **Thoughts**: I have the stack, I collected some words POC is on the way.
+
+## Day 35: 2022-09-19
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1571966424771448837)
+
+**Today's Progress**: `#100DaysOfCode` Day 35
+
+I created a POC for my daily 🇪🇸 crossword puzzle. 
+
+- It collects the same words throughout the current day
+- Added a base HTML/CSS template for the layout
+- Users can only enter a single letter or remove the current one
+
+Shoutout to [npm: crossword-layout-generator](https://www.npmjs.com/package/crossword-layout-generator)
+
+**Thoughts**: I started to write this code in React, eventually I'd like to add it to my 11ty site `learning-spanish`. I might transform it into a web component just to see how they work.
+
+**Link(s) to work**: [npm: crossword-layout-generator](https://www.npmjs.com/package/crossword-layout-generator)
+
+![Showcasing a crossword puzzle layout with gray blank items, and solution on the top 2 words are filled in: Media and Destino. The cursor is at the 7th word](assets/day-35.jpg)
