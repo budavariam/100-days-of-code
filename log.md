@@ -479,3 +479,17 @@ Shoutout to [npm: crossword-layout-generator](https://www.npmjs.com/package/cros
 **Link(s) to work**: [npm: crossword-layout-generator](https://www.npmjs.com/package/crossword-layout-generator)
 
 ![Showcasing a crossword puzzle layout with gray blank items, and solution on the top 2 words are filled in: Media and Destino. The cursor is at the 7th word](assets/day-35.jpg)
+
+## Day 36: 2022-09-20
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1572297792189595651)
+
+**Today's Progress**: `#100DaysOfCode` Day 36
+
+🤖 I coded a heuristic in my language practice crossword to make it automatically move to the next slot upon filling the fields
+
+💡Now that I look at this animation, I got some idea of how to make it better
+
+**Thoughts**: I took more time than I expected with this auto navigation, I'd like to handle backspace and arrow key navigation is well. I don't want to capture tab for the game.
+
+![filling out  of thee crossword with a bunch of letter A](./assets/day-36.gif)
