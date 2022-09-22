@@ -493,3 +493,19 @@ Shoutout to [npm: crossword-layout-generator](https://www.npmjs.com/package/cros
 **Thoughts**: I took more time than I expected with this auto navigation, I'd like to handle backspace and arrow key navigation is well. I don't want to capture tab for the game.
 
 ![filling out  of thee crossword with a bunch of letter A](./assets/day-36.gif)
+
+## Day 37: 2022-09-22
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1573013894745964546)
+
+**Today's Progress**: `#100DaysOfCode` Day 37
+
+I use `@toggltrack` to help me track the time I spend on different work projects.
+
+Though some personal ones should not appear on my weekly timesheet.
+
+Today I've added an option to my helper tool not to render the hidden lines at all
+
+**Thoughts**: I had little time to code, though this addition helps me a lot. I might add a simple MUI checkmark to each line to let me mark them as completed while filling out the timesheet.
+
+**Link(s) to work**: [Time Tracker](https://budavariam.github.io/timesheet-helper/)
