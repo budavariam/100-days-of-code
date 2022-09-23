@@ -509,3 +509,19 @@ Today I've added an option to my helper tool not to render the hidden lines at a
 **Thoughts**: I had little time to code, though this addition helps me a lot. I might add a simple MUI checkmark to each line to let me mark them as completed while filling out the timesheet.
 
 **Link(s) to work**: [Time Tracker](https://budavariam.github.io/timesheet-helper/)
+
+## Day 38: 2022-09-23
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1573362387746684929)
+
+**Today's Progress**: `#100DaysOfCode` Day 38
+
+Today I needed to assign specific people to week-long tasks.
+
+I wrote a simple `#JavaScript` code to automate the `#GoogleCalendar` event creation. Upon creation, it also gave me a report on what events have been created.
+
+Helpful docs:
+
+**Thoughts**: It speeded up manual work, still has potential for improvement. Thoug I don't want to solve vague nonexistent problems yet.
+
+**Link(s) to work**: [Import events to Google Calendar - Computer - Google Calendar Help](https://support.google.com/calendar/answer/37118#advanced&zippy=%2Ccreate-or-edit-a-csv-file)
