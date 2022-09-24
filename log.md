@@ -525,3 +525,19 @@ Helpful docs:
 **Thoughts**: It speeded up manual work, still has potential for improvement. Thoug I don't want to solve vague nonexistent problems yet.
 
 **Link(s) to work**: [Import events to Google Calendar - Computer - Google Calendar Help](https://support.google.com/calendar/answer/37118#advanced&zippy=%2Ccreate-or-edit-a-csv-file)
+
+## Day 39: 2022-09-24
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1573600909564731392)
+
+**Today's Progress**: `#100DaysOfCode` Day 39
+
+Today I polished my minimal `#LanguageCrossword` implementation.
+
+🧮 Progress counter gives some further hints
+
+🔀 Jump button shows the word orientation from now on
+
+🎉 Upon completion,  `#canvasConfetti` ensures the festive mood
+
+**Thoughts**: It has the base functionality to go live, but the code is a mess. I need to clean it up, and figure out what is the easiest way to render it into my Language Practice website without adding the source code over there.
