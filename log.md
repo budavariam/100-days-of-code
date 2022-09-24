@@ -541,3 +541,5 @@ Today I polished my minimal `#LanguageCrossword` implementation.
 🎉 Upon completion,  `#canvasConfetti` ensures the festive mood
 
 **Thoughts**: It has the base functionality to go live, but the code is a mess. I need to clean it up, and figure out what is the easiest way to render it into my Language Practice website without adding the source code over there.
+
+![Language practice crossword shows a confetti gun animation when the progress counter reaches 100%](./assets/day-39.gif)
