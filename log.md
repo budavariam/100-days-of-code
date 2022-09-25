@@ -543,3 +543,19 @@ Today I polished my minimal `#LanguageCrossword` implementation.
 **Thoughts**: It has the base functionality to go live, but the code is a mess. I need to clean it up, and figure out what is the easiest way to render it into my Language Practice website without adding the source code over there.
 
 ![Language practice crossword shows a confetti gun animation when the progress counter reaches 100%](./assets/day-39.gif)
+
+## Day 40: 2022-09-25
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1573971871179186178)
+
+**Today's Progress**: `#100DaysOfCode` Day 40
+
+🕹️ I played with `@css_battle`'s current `#CSSBattleChallenge`
+
+🏡 I rediscovered a shorthand recently, so I went through other battles to apply and increase my score
+
+🦄 I guess Unicode characters could spice up my game at this point
+
+**Thoughts**: I found a unicode character tester site, but I didn't take a deepdive into it yet, with positioning at least I feel like I solve scenarios that could appear in the real world.
+
+**Link(s) to work**: [Letter N - Mátyás Budavári](https://budavariam.github.io/css-battle-showcase/battles/21-rotate/128-letter-n)
