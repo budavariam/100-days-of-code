@@ -559,3 +559,22 @@ Today I polished my minimal `#LanguageCrossword` implementation.
 **Thoughts**: I found a unicode character tester site, but I didn't take a deepdive into it yet, with positioning at least I feel like I solve scenarios that could appear in the real world.
 
 **Link(s) to work**: [Letter N - Mátyás Budavári](https://budavariam.github.io/css-battle-showcase/battles/21-rotate/128-letter-n)
+
+## Day 41: 2022-09-26
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1574510939864530944)
+
+**Today's Progress**: `#100DaysOfCode` Day 41
+
+Today I looked at possibilities for embedding my `#createReactApp` React.js `#LanguageCrossword` POC codebase into my Spanish Learning `@eleven_ty` static website. 
+
+`#100Devs` what do you think would be the best?
+
+- Embed in an iframe
+- Make it a WebComponent
+- Eleventy React Template
+- ...I'll tell in a comment
+
+**Thoughts**: I'd prefer to choose the simplest solution. It'd be great to have a demo site for the corsswoord while it can be embedded to other pages with minimal effort. I imagine WebComponents should be elements that are meant to be reused in multiple places. Eleventy Renderer is experimental, though it might worth a try.
+Iframe seems to be the simplest of all.
+I could just render react in the static site.
