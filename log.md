@@ -578,3 +578,17 @@ Today I looked at possibilities for embedding my `#createReactApp` React.js `#La
 **Thoughts**: I'd prefer to choose the simplest solution. It'd be great to have a demo site for the corsswoord while it can be embedded to other pages with minimal effort. I imagine WebComponents should be elements that are meant to be reused in multiple places. Eleventy Renderer is experimental, though it might worth a try.
 Iframe seems to be the simplest of all.
 I could just render react in the static site.
+
+## Day 42: 2022-09-27
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1574878488397488159)
+
+**Today's Progress**: `#100DaysOfCode` Day 42
+
+📚 I looked into WebComponents in general
+🔥 I checked out the popular `@buildWithLit`
+🚀 I tried `@direflowjs` on my static site
+
+I'm pretty happy with the progress
+
+**Thoughts**: I wish my code will work exactly as I intended it with the help of DireFlow, otherwise comes planB. Refactor and rewrite.
