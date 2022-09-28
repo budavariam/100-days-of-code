@@ -592,3 +592,17 @@ I could just render react in the static site.
 I'm pretty happy with the progress
 
 **Thoughts**: I wish my code will work exactly as I intended it with the help of DireFlow, otherwise comes planB. Refactor and rewrite.
+
+## Day 43: 2022-09-28
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1575217028066967552)
+
+**Today's Progress**: `#100DaysOfCode` Day 43
+
+I fixed the minor issues when migrated my React component into `@direflowjs` `#webComponent`
+
+🌴 Could not add :root for CSS properties. I added them to my root className
+
+🔎 The document.getElementById calls did not work. I replaced them to ref.querySelector()
+
+**Thoughts**: I'm happy that CSS variables propagate through. I can easily use the already existing dark theme from my site.
