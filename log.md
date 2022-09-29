@@ -606,3 +606,19 @@ I fixed the minor issues when migrated my React component into `@direflowjs` `#w
 🔎 The document.getElementById calls did not work. I replaced them to ref.querySelector()
 
 **Thoughts**: I'm happy that CSS variables propagate through. I can easily use the already existing dark theme from my site.
+
+## Day 44: 2022-09-29
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1575527322916102145)
+
+**Today's Progress**: `#100DaysOfCode` Day 44
+
+🎉 I released the MVP of my 🇪🇸Crossword  `#WebComponent` to help my classmates as well
+
+📵 At first, I thought it wouldn't work well on mobile, but I was able to pinpoint and fix the major issues
+
+💡 I already got positive feedback
+
+**Thoughts**: I found some minor bugs, sadly only the v0.0.6 npm version was the one I was satisfied with enough to let it out of my hands in minified form. I'm still not proud of the source code.
+
+**Link(s) to work**: [Learning Spanish Keresztrejtvény](https://budavariam.github.io/learning-spanish/crossword/)
