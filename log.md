@@ -622,3 +622,19 @@ I fixed the minor issues when migrated my React component into `@direflowjs` `#w
 **Thoughts**: I found some minor bugs, sadly only the v0.0.6 npm version was the one I was satisfied with enough to let it out of my hands in minified form. I'm still not proud of the source code.
 
 **Link(s) to work**: [Learning Spanish Keresztrejtvény](https://budavariam.github.io/learning-spanish/crossword/)
+
+## Day 45: 2022-09-30
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1575884558104305671)
+
+**Today's Progress**: `#100DaysOfCode` Day 45
+
+I played the current  `#CSSBattleChallenge` at `@css_battle` 
+
+🕐 I think these were my fastest solutions yet
+🎁 box-shadow came in handy as a clone tool
+🎨 I learned a new trick: I can exploit that its default color is "currentcolor"
+
+**Thoughts**: I finally created an init shell script that helps with starting a new challenge. These challenges seemed pretty easy, or I'm starting to get into it.
+
+**Link(s) to work**: [Letter B - Mátyás Budavári](https://budavariam.github.io/css-battle-showcase/battles/21-rotate/129-letter-b)
