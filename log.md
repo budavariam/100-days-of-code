@@ -638,3 +638,17 @@ I played the current  `#CSSBattleChallenge` at `@css_battle`
 **Thoughts**: I finally created an init shell script that helps with starting a new challenge. These challenges seemed pretty easy, or I'm starting to get into it.
 
 **Link(s) to work**: [Letter B - Mátyás Budavári](https://budavariam.github.io/css-battle-showcase/battles/21-rotate/129-letter-b)
+
+## Day 46: 2022-10-01
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1576119915232186369)
+
+**Today's Progress**: `#100DaysOfCode` Day 46
+
+📝 Today I started to get familiar with Zettelkasten note taking method
+
+🎓 I'm in an endless process of rethinking and improving my current knowledge management system
+
+**Thoughts**: Nice idea, I'll need to learn more to see how it fits my system
+
+**Link(s) to work**: [Zettelkasten knowledge and info management • Zettelkasten Method](https://zettelkasten.de/)
