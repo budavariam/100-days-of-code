@@ -652,3 +652,18 @@ I played the current  `#CSSBattleChallenge` at `@css_battle`
 **Thoughts**: Nice idea, I'll need to learn more to see how it fits my system
 
 **Link(s) to work**: [Zettelkasten knowledge and info management • Zettelkasten Method](https://zettelkasten.de/)
+
+## Day 47: 2022-10-02
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1576663280730660864)
+
+**Today's Progress**: `#100DaysOfCode` Day 47
+
+I started to clean up my LanguageCrossword React code
+
+🌀 Improved my `#developerExperience` by automating repetitive tasks
+⌨️ Added `#Typescript` to the mix, started to define the interfaces and types
+🌐 Got rid of global variables
+🔬 Fixed styling issues
+
+**Thoughts**: Currently there are still more `any` then what's healthy, but as soon as I get a storybook-like component and split out functionality into their own files it'll be much less mind-boggling to add new features
