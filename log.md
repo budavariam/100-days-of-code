@@ -667,3 +667,21 @@ I started to clean up my LanguageCrossword React code
 🔬 Fixed styling issues
 
 **Thoughts**: Currently there are still more `any` then what's healthy, but as soon as I get a storybook-like component and split out functionality into their own files it'll be much less mind-boggling to add new features
+
+## Day 48: 2022-10-03
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1576975706189627393)
+
+**Today's Progress**: `#100DaysOfCode` Day 48
+
+I improved my LanguageCrossword a bit today.
+
+🏗️ I calculated new progress metrics to help me provide additional hints
+
+📈 I strike through the completed words hoping that it might improve engagement
+
+🧹 I continued code cleanup
+
+**Thoughts**: I did not have much time today to imprve my code, did my best in this short time. Just had to sit down and code the logic. I hopee that after I finish the typescript rewrite and code split I'll be able to code ideas like much faster.
+
+**Link(s) to work**: [Learning Spanish Keresztrejtvény](https://budavariam.github.io/learning-spanish/crossword/)
