@@ -586,7 +586,9 @@ I could just render react in the static site.
 **Today's Progress**: `#100DaysOfCode` Day 42
 
 📚 I looked into WebComponents in general
+
 🔥 I checked out the popular `@buildWithLit`
+
 🚀 I tried `@direflowjs` on my static site
 
 I'm pretty happy with the progress
@@ -632,7 +634,9 @@ I fixed the minor issues when migrated my React component into `@direflowjs` `#w
 I played the current  `#CSSBattleChallenge` at `@css_battle` 
 
 🕐 I think these were my fastest solutions yet
+
 🎁 box-shadow came in handy as a clone tool
+
 🎨 I learned a new trick: I can exploit that its default color is "currentcolor"
 
 **Thoughts**: I finally created an init shell script that helps with starting a new challenge. These challenges seemed pretty easy, or I'm starting to get into it.
@@ -662,8 +666,11 @@ I played the current  `#CSSBattleChallenge` at `@css_battle`
 I started to clean up my LanguageCrossword React code
 
 🌀 Improved my `#developerExperience` by automating repetitive tasks
+
 ⌨️ Added `#Typescript` to the mix, started to define the interfaces and types
+
 🌐 Got rid of global variables
+
 🔬 Fixed styling issues
 
 **Thoughts**: Currently there are still more `any` then what's healthy, but as soon as I get a storybook-like component and split out functionality into their own files it'll be much less mind-boggling to add new features
