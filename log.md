@@ -692,3 +692,15 @@ I improved my LanguageCrossword a bit today.
 **Thoughts**: I did not have much time today to imprve my code, did my best in this short time. Just had to sit down and code the logic. I hopee that after I finish the typescript rewrite and code split I'll be able to code ideas like much faster.
 
 **Link(s) to work**: [Learning Spanish Keresztrejtvény](https://budavariam.github.io/learning-spanish/crossword/)
+
+## Day 49: 2022-10-04
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1577377889053556736)
+
+**Today's Progress**: `#100DaysOfCode` Day 49
+
+Today I spent some time browsing through `#Hacktoberfest` tags on Twitter, GitHub, and DEV to find tips on how to have meaningful contributions.
+
+I'm still looking for an `#OpenSource` project to contribute to.
+
+**Thoughts**: I've been trying to get involved for 3 years now with no luck. I wonderr how it will be this year.
