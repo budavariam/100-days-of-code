@@ -704,3 +704,14 @@ Today I spent some time browsing through `#Hacktoberfest` tags on Twitter, GitHu
 I'm still looking for an `#OpenSource` project to contribute to.
 
 **Thoughts**: I've been trying to get involved for 3 years now with no luck. I wonderr how it will be this year.
+
+## Halfway Point
+
+{::nomarkdown}
+<script>
+{% include_relative day50.js %}
+</script>
+<style>
+{% include_relative day50.css %}
+</style>
+{:/}
