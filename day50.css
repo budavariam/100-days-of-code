@@ -1,5 +1,7 @@
 .strike-group {
     margin-right: 5px;
+}
+.strike-group:has(.day:nth-child(4)) {
     text-decoration: line-through;
 }
 
