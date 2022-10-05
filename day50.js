@@ -1,5 +1,5 @@
 const LIMIT = 10
-const BATCH_SIZE = 4
+const BATCH_SIZE = 5
 
 const STATS = [
     { tag: "Language Crossword", days: [34, 35, 36, 39, 41, 42, 43, 44, 47, 48] },

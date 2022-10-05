@@ -1,8 +1,10 @@
 .strike-group {
     margin-right: 5px;
 }
-.strike-group:has(.day:nth-child(4)) {
-    text-decoration: line-through;
+.day:nth-child(5) {
+    display: inline-block;
+    transform: translateX(-0.7em) scale(1.9) rotate(90deg);
+    font-weight: lighter;
 }
 
 .day {
@@ -10,4 +12,9 @@
     color: black;
     font-style: italic;
     font-size: medium;
+}
+
+.day:hover {
+    text-decoration: none;
+    color: #00000033;
 }
