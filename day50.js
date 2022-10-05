@@ -28,11 +28,12 @@ function createStrike(num) {
     a.setAttribute('data-day', num);
     a.innerHTML = "|";
     a.addEventListener('click', function (e) {
-        console.log("a", num, e)
+        e.preventDefault()
         const node = document.querySelector(`[id^="day-${num}-"]`);
         if (node) {
             node.scrollIntoView()
         }
+        return false
     })
     return a
 }
