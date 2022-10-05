@@ -2,6 +2,8 @@
 
 See my progress [here](https://budavariam.github.io/100-days-of-code/log.html)!
 
+See [Halfway Point Statistics](https://budavariam.github.io/100-days-of-code/log.html#halfway-point)!
+
 ## Contents
 
 * [Rules](rules.md)

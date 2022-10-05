@@ -705,6 +705,24 @@ I'm still looking for an `#OpenSource` project to contribute to.
 
 **Thoughts**: I've been trying to get involved for 3 years now with no luck. I wonderr how it will be this year.
 
+## Day 50: 2022-10-05
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1577775981191995398)
+
+**Today's Progress**: `#100DaysOfCode` Day 50
+
+☕️ I took some time to revisit my progress
+
+🍦 I had fun with `#VanillaJS` to create navigable statistics in my progress log out of the top 10 topics
+
+🧮 I implemented hoverable `#CSS` tally marks
+
+**Thoughts**: I just drafted this code, it's not best practice, but it felt good revisiting it. I figured that :has() is capable of counting the number of children... The future of CSS is promising.
+
+**Link(s) to work**: [100 Days Of Code - Log](https://budavariam.github.io/100-days-of-code/log.html#halfway-point)
+
+![Hovering on Language Crossword 3rd mark which takes to day 36](assets/day-50.jpg)
+
 ## Halfway Point
 
 {::nomarkdown}
