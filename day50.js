@@ -23,9 +23,9 @@ const STATS = [
 function createStrike(num) {
     const a = document.createElement('a')
     a.classList.toggle("day")
-    a.setAttribute('href', "#");
+    // NOTE: href is fake, just here for showing a proper url
+    a.setAttribute('href', `#day-${num}`); 
     a.setAttribute('title', `Day ${num}`);
-    a.setAttribute('data-day', num);
     a.innerHTML = "|";
     a.addEventListener('click', function (e) {
         e.preventDefault()
