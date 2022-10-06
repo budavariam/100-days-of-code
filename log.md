@@ -733,3 +733,19 @@ I'm still looking for an `#OpenSource` project to contribute to.
 {% include_relative day50.css %}
 </style>
 {:/}
+
+## Day 51: 2022-10-06
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1578140510933643264)
+
+**Today's Progress**: `#100DaysOfCode` Day 51
+
+🎨 Today I learned about radial-gradient filter in `#CSS` 
+
+⚔️ I tried to use my fresh knowledge with the latest cssbattles, but could not pass 99.9% yet
+
+🧙 I learned a new trick: copy only a single border with "filter: box-shadow"
+
+**Thoughts**: It's frustrating to see the bad borders and I don't know what parts are failing the diff...
+
+**Link(s) to work**: [Learn CSS radial-gradient by Building Background Patterns](https://www.freecodecamp.org/news/css-radial-gradient/)
