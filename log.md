@@ -749,3 +749,17 @@ I'm still looking for an `#OpenSource` project to contribute to.
 **Thoughts**: It's frustrating to see the bad borders and I don't know what parts are failing the diff...
 
 **Link(s) to work**: [Learn CSS radial-gradient by Building Background Patterns](https://www.freecodecamp.org/news/css-radial-gradient/)
+
+## Day 52: 2022-10-07
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1578441776620265472)
+
+**Today's Progress**: `#100DaysOfCode` Day 52
+
+I pushed my language crossword web component one step closer to a proper standalone reusable entity 🥳
+
+💬 Starting from version 0.0.10, the dictionary is replaceable. It is loaded from an URL from now on
+
+🔒 The dictionary is kept in localstorage for a day
+
+**Thoughts**: It's usable from now on with a custom dataset, and spec characters can be added at last.
