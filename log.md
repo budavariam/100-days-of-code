@@ -763,3 +763,31 @@ I pushed my language crossword web component one step closer to a proper standal
 🔒 The dictionary is kept in localstorage for a day
 
 **Thoughts**: It's usable from now on with a custom dataset, and spec characters can be added at last.
+
+## Day 53: 2022-10-08
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1578840342618865665)
+
+**Today's Progress**: `#100DaysOfCode` Day 53
+
+I drafted another component for my language learning site: a simple word list viewer with fuzzy search filtering, category and word class filter would be an extra.
+
+It could work from the same data format as what the crossword uses.
+
+**Thoughts**: I wanted to use proper word list for a while now, let's see what I can get
+
+## Day 54: 2022-10-09
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1579218013563518977)
+
+**Today's Progress**: `#100DaysOfCode` Day 54
+
+Today I started to code my WordList web component
+
+🖼️ I started to get familiar with `@buildWithLit` templating
+
+🚧 I created a POC with the bare minimum functionality
+
+🧭 I connected `@fusejs` for a fuzzy search on the change event
+
+**Thoughts**: I was able to fire up a starter project with a bunch of boilerplate... will take some time to push it to prod
