@@ -791,3 +791,21 @@ Today I started to code my WordList web component
 🧭 I connected `@fusejs` for a fuzzy search on the change event
 
 **Thoughts**: I was able to fire up a starter project with a bunch of boilerplate... will take some time to push it to prod
+
+## Day 55: 2022-10-10
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1579601659126501377)
+
+**Today's Progress**: `#100DaysOfCode` Day 55
+
+I started to clean up my word finder POC
+
+⚖️ I created a prod rollup bundle to let me use it as a standalone item
+
+📒 I used a valid name instead of my-component and pushed it to npm
+
+🚀 I embedded it into my language learner site
+
+**Thoughts**: I did not  have much time, I could not figure out why rollup did not like the summary part, nevertheless I cleaned up a lot of mess in that repo, npmignored a bunch of stuff
+
+**Link(s) to work**: [Learning Spanish Szavak](https://budavariam.github.io/learning-spanish/szavak/)
