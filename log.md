@@ -809,3 +809,17 @@ I started to clean up my word finder POC
 **Thoughts**: I did not  have much time, I could not figure out why rollup did not like the summary part, nevertheless I cleaned up a lot of mess in that repo, npmignored a bunch of stuff
 
 **Link(s) to work**: [Learning Spanish Szavak](https://budavariam.github.io/learning-spanish/szavak/)
+
+## Day 56: 2022-10-16
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1581584411111608320)
+
+**Today's Progress**: `#100DaysOfCode` Day 56
+
+🎉 Our team got 3rd place at the company-wide Hackathon
+
+🚂 We created a new internal site for managing travel expense reimbursement
+
+👷 Our service extracts data from the pdfs and organizes them in the desired way to decrease manual workload
+
+**Thoughts**: I had some thoughts on how to create a rocking presentation, I might write a blogpost on it
