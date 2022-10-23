@@ -823,3 +823,15 @@ I started to clean up my word finder POC
 👷 Our service extracts data from the pdfs and organizes them in the desired way to decrease manual workload
 
 **Thoughts**: I had some thoughts on how to create a rocking presentation, I might write a blogpost on it
+
+## Day 57: 2022-10-23
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1584263301487218688)
+
+**Today's Progress**: `#100DaysOfCode` Day 57
+
+🔖 Learned about data fetching in `#lit` `#webcomponent`, looked into the "until" function to print a message until my Promise resolves
+
+↘️  Updated my wordlist component in my Spanish learning site to work from the same data source as what my crossword uses
+
+**Thoughts**: I started to implement this in a waaay more complicated than I should have. But got back on track. The look and feel is still a bit of a mess, but I can start to improve the word list.
