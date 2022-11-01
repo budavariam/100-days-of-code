@@ -835,3 +835,19 @@ I started to clean up my word finder POC
 ↘️  Updated my wordlist component in my Spanish learning site to work from the same data source as what my crossword uses
 
 **Thoughts**: I started to implement this in a waaay more complicated than I should have. But got back on track. The look and feel is still a bit of a mess, but I can start to improve the word list.
+
+## Day 58: 2022-11-01
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1587537403220303875)
+
+**Today's Progress**: `#100DaysOfCode` Day 58
+
+⚔️ I tried once again to finish the last 2 battles of the latest `#cssBattleChallenge`
+
+🔄 I found a simple rotate + drop shadow solution for 132. The positioning could be simplified
+
+🚧 I can not yet get past 99.9% in challenge 131
+
+**Thoughts**: This 131 drives me crazy. I think I found an elegant way, but it still does not work
+
+**Link(s) to work**: [letter-s - Mátyás Budavári](https://budavariam.github.io/css-battle-showcase/battles/21-rotate/132-letter-s)
