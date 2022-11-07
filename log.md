@@ -851,3 +851,17 @@ I started to clean up my word finder POC
 **Thoughts**: This 131 drives me crazy. I think I found an elegant way, but it still does not work
 
 **Link(s) to work**: [letter-s - Mátyás Budavári](https://budavariam.github.io/css-battle-showcase/battles/21-rotate/132-letter-s)
+
+## Day 59: 2022-11-07
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1589722510563905536)
+
+**Today's Progress**: `#100DaysOfCode` Day 59
+
+I read about AWS ALBs, debugged a misbehaving Ingress in EKS, issued certificates and wrote a step-by-step guide for my future self
+
+I dusted off my DevOps knowledge of CI/CD pipelines and branching strategies
+
+I finished the remaining `#oitm` coding tasks
+
+**Thoughts**: Bunch of learning, not so visible
