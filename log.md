@@ -865,3 +865,15 @@ I dusted off my DevOps knowledge of CI/CD pipelines and branching strategies
 I finished the remaining `#oitm` coding tasks
 
 **Thoughts**: Bunch of learning, not so visible
+
+## Day 60: 2022-11-08
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1590021000401670152)
+
+**Today's Progress**: `#100DaysOfCode` Day 60
+
+Continued my AWS journey by getting some on-hands experience in RDS
+
+I set up external database connections and practiced data migration in a small dataset
+
+**Thoughts**: I love in AWS how easy it is to change configuration values, and I don't like how it keeps me in the dark if something is not right...
