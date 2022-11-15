@@ -877,3 +877,18 @@ Continued my AWS journey by getting some on-hands experience in RDS
 I set up external database connections and practiced data migration in a small dataset
 
 **Thoughts**: I love in AWS how easy it is to change configuration values, and I don't like how it keeps me in the dark if something is not right...
+
+## Day 61: 2022-11-15
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1592416364815581184)
+
+**Today's Progress**: `#100DaysOfCode` Day 61
+
+I set up a local dev proxy to closely inspect the packets of a strange-behaving web app
+
+Chrome can be started with proxy settings via CLI. 
+No need to temper with the network. e.g. on macOS:
+
+open -a "Google Chrome" --args --proxy-server=localhost:8080
+
+**Thoughts**: It blew my mind how easy it was to set it up. And how easy it is to add code rewrite if I need to mock some parts of the app temporarily without having to stop or restart the service
