@@ -892,3 +892,17 @@ No need to temper with the network. e.g. on macOS:
 open -a "Google Chrome" --args --proxy-server=localhost:8080
 
 **Thoughts**: It blew my mind how easy it was to set it up. And how easy it is to add code rewrite if I need to mock some parts of the app temporarily without having to stop or restart the service
+
+## Day 62: 2022-11-16
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1592980991756599300)
+
+**Today's Progress**: `#100DaysOfCode` Day 62
+
+👑 We found Kinder Surprise Kings during shopping and it inspired us to improvise a basic nativity scene from what we have at home
+
+🔍 As a fun experiment, we 3D scanned it, and I dusted off my three.js knowledge to load a GLTF file
+
+**Thoughts**: I've found a basic example in codesandbox, I wanted to export it from the beginning to a place. The github pages export worked flawlessly, but it looked like a mess, the source code was not there etc. And the deployed stuff did not work, because the basic example was built with parcel, but it missed the static asset copy plugin... I then created a github project, fixed the issues and added a github workflow to deploy to github pages. I love the end result. We might make a christmas card out of it with some animation or snowing...
+
+**Link(s) to work**: [THREE.js](https://budavariam.github.io/threejs-glb-experiment/)
