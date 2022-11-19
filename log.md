@@ -906,3 +906,17 @@ open -a "Google Chrome" --args --proxy-server=localhost:8080
 **Thoughts**: I've found a basic example in codesandbox, I wanted to export it from the beginning to a place. The github pages export worked flawlessly, but it looked like a mess, the source code was not there etc. And the deployed stuff did not work, because the basic example was built with parcel, but it missed the static asset copy plugin... I then created a github project, fixed the issues and added a github workflow to deploy to github pages. I love the end result. We might make a christmas card out of it with some animation or snowing...
 
 **Link(s) to work**: [THREE.js](https://budavariam.github.io/threejs-glb-experiment/)
+
+## Day 63: 2022-11-19
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1594092050668224512)
+
+**Today's Progress**: `#100DaysOfCode` Day 63
+
+☸️ I've started to summarize my last few years of working with Kubernetes into a blog post
+
+👷 I aim to have a post I can use as a guide to help anyone through the basics who haven't worked with it yet
+
+🧐 Also, to have my own cheatsheet for my future self
+
+**Thoughts**: It's going to be a loooong post. I spent more time so far looking for a specific meme about networking than with the text itself...
