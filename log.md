@@ -920,3 +920,15 @@ open -a "Google Chrome" --args --proxy-server=localhost:8080
 🧐 Also, to have my own cheatsheet for my future self
 
 **Thoughts**: It's going to be a loooong post. I spent more time so far looking for a specific meme about networking than with the text itself...
+
+## Day 64: 2022-11-20
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1594419615098183683)
+
+**Today's Progress**: `#100DaysOfCode` Day 64
+
+✍️ I took some time to revamp my blog post about my experiences and takeaways from our latest Hackathon project.
+
+🙈 Finally published it with a little over a month delay
+
+**Thoughts**: It was a fun project, made me happy to think about it, and write my experience
