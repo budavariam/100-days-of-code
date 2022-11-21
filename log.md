@@ -932,3 +932,19 @@ open -a "Google Chrome" --args --proxy-server=localhost:8080
 🙈 Finally published it with a little over a month delay
 
 **Thoughts**: It was a fun project, made me happy to think about it, and write my experience
+
+## Day 65: 2022-11-21
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1594750144448430080)
+
+**Today's Progress**: `#100DaysOfCode` Day 65
+
+I've found another set of interesting issues with my sqlldr ctrl:
+
+🔢 If I load from a CSV field that has &gt;255 characters, I have to set the char number
+
+🗒️ I can not easily load blob data, even if it's text
+
+📅 Date format is needed if it's not the default
+
+**Thoughts**: I start to get the hang of working with Oracle. It's a bit tiring though.
