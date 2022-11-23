@@ -960,3 +960,13 @@ I looked into linters and formatters to see which ones are trending in 2022 to p
 I see now I can even choose between opinionated and configurable
 
 **Thoughts**: I like pylint and black for python. ESLint and prettier for javascript
+
+## Day 67: 2022-11-23
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1595509655177945089)
+
+**Today's Progress**: `#100DaysOfCode` Day 67
+
+I took a deep dive into Oracle session management, session parameters, session pools, and working with cx_oracle in general
+
+**Thoughts**: It's not the easiest and most straightforward stuff, but getting into it
