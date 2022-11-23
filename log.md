@@ -948,3 +948,15 @@ I've found another set of interesting issues with my sqlldr ctrl:
 📅 Date format is needed if it's not the default
 
 **Thoughts**: I start to get the hang of working with Oracle. It's a bit tiring though.
+
+## Day 66: 2022-11-22
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1595149956121186304)
+
+**Today's Progress**: `#100DaysOfCode` Day 66
+
+I looked into linters and formatters to see which ones are trending in 2022 to pick my new favorite.
+
+I see now I can even choose between opinionated and configurable
+
+**Thoughts**: I like pylint and black for python. ESLint and prettier for javascript
