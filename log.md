@@ -970,3 +970,23 @@ I see now I can even choose between opinionated and configurable
 I took a deep dive into Oracle session management, session parameters, session pools, and working with cx_oracle in general
 
 **Thoughts**: It's not the easiest and most straightforward stuff, but getting into it
+
+## Day 68: 2022-11-28
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1597350998233604097)
+
+**Today's Progress**: `#100DaysOfCode` Day 68
+
+The time has come again when many team members can possibly be on vacation at once
+
+🎄 I dusted off my calendar visualization for this festive time
+
+🎨 Colored the checkmarks
+
+⭐️ Added a team selector with localStorage persistence
+
+**Thoughts**: It was nice to create merge requests, I've finished 3 of the tasks I've been wanted to do for so long.
+
+**Link(s) to work**: [Absence Calendar](https://budavariam.github.io/absence-calendar)
+
+![December month's calendar is visible on the left with some green lines spanning through the days. There are pokémon names in those lines. On the right side there's a sidebar with selectable names. A star icon is selected indicating that a fixed set of items are visible.](assets/day-68.jpg)
