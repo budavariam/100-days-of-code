@@ -990,3 +990,19 @@ The time has come again when many team members can possibly be on vacation at on
 **Link(s) to work**: [Absence Calendar](https://budavariam.github.io/absence-calendar)
 
 ![December month's calendar is visible on the left with some green lines spanning through the days. There are pokémon names in those lines. On the right side there's a sidebar with selectable names. A star icon is selected indicating that a fixed set of items are visible.](assets/day-68.jpg)
+
+## Day 69: 2022-11-29
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1597693392221532160)
+
+**Today's Progress**: `#100DaysOfCode` Day 69
+
+⛳️ Today, I submitted to my last category in Hungary's largest IT competition `#oitm` .
+
+📈 I collected my stats from this year, which are available now
+
+✍️ Wrote my annual blog post about it, where I'll post my results as soon as they're available
+
+**Thoughts**: I forgot to post the link here... nevermind Adding it manually here
+
+**Link(s) to work**: [Blog post](https://budavariam.github.io/posts/2022/11/29/oitm-2022/)
