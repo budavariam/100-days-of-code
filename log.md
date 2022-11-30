@@ -252,7 +252,7 @@ Today I took an unplanned deep dive into `#kubernetes` networkPolicies and netwo
 
 [Tweet](https://twitter.com/BudavariMatyas/status/1562853199744466945)
 
-**Today's Progress**: `#100DaysOfCode` Day 19 
+**Today's Progress**: `#100DaysOfCode` Day 19
 
 I've added minor enhancements to my progress page. I ensured that the minimal default `#jekyll` `#githubPages` template embeds the SVG, then I added basic tooltips and click navigation handling to my contribution chart.
 
@@ -466,7 +466,7 @@ Today I drafted a random crossword generator to help me practice Spanish words i
 
 **Today's Progress**: `#100DaysOfCode` Day 35
 
-I created a POC for my daily 🇪🇸 crossword puzzle. 
+I created a POC for my daily 🇪🇸 crossword puzzle.
 
 - It collects the same words throughout the current day
 - Added a base HTML/CSS template for the layout
@@ -566,7 +566,7 @@ Today I polished my minimal `#LanguageCrossword` implementation.
 
 **Today's Progress**: `#100DaysOfCode` Day 41
 
-Today I looked at possibilities for embedding my `#createReactApp` React.js `#LanguageCrossword` POC codebase into my Spanish Learning `@eleven_ty` static website. 
+Today I looked at possibilities for embedding my `#createReactApp` React.js `#LanguageCrossword` POC codebase into my Spanish Learning `@eleven_ty` static website.
 
 `#100Devs` what do you think would be the best?
 
@@ -631,7 +631,7 @@ I fixed the minor issues when migrated my React component into `@direflowjs` `#w
 
 **Today's Progress**: `#100DaysOfCode` Day 45
 
-I played the current  `#CSSBattleChallenge` at `@css_battle` 
+I played the current  `#CSSBattleChallenge` at `@css_battle`
 
 🕐 I think these were my fastest solutions yet
 
@@ -740,7 +740,7 @@ I'm still looking for an `#OpenSource` project to contribute to.
 
 **Today's Progress**: `#100DaysOfCode` Day 51
 
-🎨 Today I learned about radial-gradient filter in `#CSS` 
+🎨 Today I learned about radial-gradient filter in `#CSS`
 
 ⚔️ I tried to use my fresh knowledge with the latest cssbattles, but could not pass 99.9% yet
 
@@ -886,7 +886,7 @@ I set up external database connections and practiced data migration in a small d
 
 I set up a local dev proxy to closely inspect the packets of a strange-behaving web app
 
-Chrome can be started with proxy settings via CLI. 
+Chrome can be started with proxy settings via CLI.
 No need to temper with the network. e.g. on macOS:
 
 open -a "Google Chrome" --args --proxy-server=localhost:8080
@@ -1006,3 +1006,15 @@ The time has come again when many team members can possibly be on vacation at on
 **Thoughts**: I forgot to post the link here... nevermind Adding it manually here
 
 **Link(s) to work**: [Blog post](https://budavariam.github.io/posts/2022/11/29/oitm-2022/)
+
+## Day 70: 2022-11-30
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1598027887973519360)
+
+**Today's Progress**: `#100DaysOfCode` Day 70
+
+I've tried out plugins in FullCalendar to get a weekly view in my Calendar Application.
+
+I'll also be able to add recurring events and click handling for events later on if I'll need some other custom behavior
+
+**Thoughts**: It was simpler than expected, I had some trouble with the version numbers, otherwise it was fine
