@@ -1018,3 +1018,18 @@ I've tried out plugins in FullCalendar to get a weekly view in my Calendar Appli
 I'll also be able to add recurring events and click handling for events later on if I'll need some other custom behavior
 
 **Thoughts**: It was simpler than expected, I had some trouble with the version numbers, otherwise it was fine
+
+## Day 71: 2022-12-01
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1598186299969896448)
+
+**Today's Progress**: `#100DaysOfCode` Day 71
+
+Today is the first day of `#AdventOfCode` 
+I dusted off my solutions repo and solved the first problem in around 8 minutes
+
+Tip: don't forget to consider the last batch if you're inserting them iteratively. The case was really nice
+
+**Thoughts**: I forgot of course, but some nice placed newlines at the end of the input helped
+
+**Link(s) to work**: [2022 day 01 by budavariam · Pull Request #5 · budavariam/advent_of_code](https://github.com/budavariam/advent_of_code/pull/5/files)
