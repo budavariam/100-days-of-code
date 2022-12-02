@@ -1033,3 +1033,17 @@ Tip: don't forget to consider the last batch if you're inserting them iterativel
 **Thoughts**: I forgot of course, but some nice placed newlines at the end of the input helped
 
 **Link(s) to work**: [2022 day 01 by budavariam · Pull Request #5 · budavariam/advent_of_code](https://github.com/budavariam/advent_of_code/pull/5/files)
+
+## Day 72: 2022-12-02
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1598553935287144449)
+
+**Today's Progress**: `#100DaysOfCode` Day 72
+
+The 2nd `#AdventOfCode` was a fun task.
+
+I mistakenly swapped the ROCK and SCISSOR mapping values... I double-checked everything afterward.
+
+Made me lose a lot of precious time, but still 32:12 ⭐️⭐️
+
+**Thoughts**: I'm happy that I did not overengineered this task, nor did I did the checks manually. But I typed a lot to keep the variable names clear. It seems that I'm not a competitive programmer
