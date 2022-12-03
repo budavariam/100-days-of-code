@@ -1025,7 +1025,7 @@ I'll also be able to add recurring events and click handling for events later on
 
 **Today's Progress**: `#100DaysOfCode` Day 71
 
-Today is the first day of `#AdventOfCode` 
+Today is the first day of `#AdventOfCode`
 I dusted off my solutions repo and solved the first problem in around 8 minutes
 
 Tip: don't forget to consider the last batch if you're inserting them iteratively. The case was really nice
@@ -1047,3 +1047,21 @@ I mistakenly swapped the ROCK and SCISSOR mapping values... I double-checked eve
 Made me lose a lot of precious time, but still 32:12 ⭐️⭐️
 
 **Thoughts**: I'm happy that I did not overengineered this task, nor did I did the checks manually. But I typed a lot to keep the variable names clear. It seems that I'm not a competitive programmer
+
+## Day 73: 2022-12-03
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1598913251923722241)
+
+**Today's Progress**: `#100DaysOfCode` Day 73
+
+It took me a while to understand the `#AdventOfCode` task.
+For the second half, I thought It would be much complicated...
+I SET the elfxpectation to a higher standard than what would have been necessary.
+
+13:43 ⭐️ 29:12 🌟
+
+**Thoughts**: I almost lost focus and concentration when my neighbors started the loudest ...khm... than they ever did.
+
+That was just about when I got to start to understand the cryptic 2nd half.
+ofc my headphones were in the other room.
+The guy lasted for the whole task. Cheers for him...
