@@ -1065,3 +1065,17 @@ I SET the elfxpectation to a higher standard than what would have been necessary
 That was just about when I got to start to understand the cryptic 2nd half.
 ofc my headphones were in the other room.
 The guy lasted for the whole task. Cheers for him...
+
+## Day 74: 2022-12-04
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1599272181849935872)
+
+**Today's Progress**: `#100DaysOfCode` Day 74
+
+I played with `#AdventOfCode` 
+
+For the first half I came up with the math formula quickly, for the second half I could not get it right at this time of the day, so I generated the ranges and looked at set intersections for quick win
+
+5:03 ⭐️ 14:24 🌟
+
+**Thoughts**: Note to self, a pencil and a piece of paper would have helped
