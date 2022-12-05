@@ -1030,6 +1030,8 @@ I dusted off my solutions repo and solved the first problem in around 8 minutes
 
 Tip: don't forget to consider the last batch if you're inserting them iteratively. The case was really nice
 
+4:02 ⭐️ 7:33 🌟
+
 **Thoughts**: I forgot of course, but some nice placed newlines at the end of the input helped
 
 **Link(s) to work**: [2022 day 01 by budavariam · Pull Request #5 · budavariam/advent_of_code](https://github.com/budavariam/advent_of_code/pull/5/files)
@@ -1045,6 +1047,8 @@ The 2nd `#AdventOfCode` was a fun task.
 I mistakenly swapped the ROCK and SCISSOR mapping values... I double-checked everything afterward.
 
 Made me lose a lot of precious time, but still 32:12 ⭐️⭐️
+
+25:02 ⭐️ 32:12 🌟
 
 **Thoughts**: I'm happy that I did not overengineered this task, nor did I did the checks manually. But I typed a lot to keep the variable names clear. It seems that I'm not a competitive programmer
 
@@ -1079,3 +1083,20 @@ For the first half I came up with the math formula quickly, for the second half 
 5:03 ⭐️ 14:24 🌟
 
 **Thoughts**: Note to self, a pencil and a piece of paper would have helped
+
+## Day 75: 2022-12-05
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1599638716716236800)
+
+**Today's Progress**: `#100DaysOfCode` Day 75
+
+I just completed "Supply Stacks" - Day 5 - Advent of Code 2022 `#AdventOfCode`
+
+I started with regexps, then figured out a much simpler way
+
+28:14 ⭐️ 33:47 🌟
+
+**Thoughts**: I was scared af first from the input format, overcomplicated it then simplified my method.
+It calmed me that I had an idea on how to finish the part with the instructions, and I knew how to prepare the data for it.
+
+**Link(s) to work**: [Day 5 - Advent of Code 2022](https://adventofcode.com/2022/day/5)
