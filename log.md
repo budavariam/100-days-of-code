@@ -1100,3 +1100,19 @@ I started with regexps, then figured out a much simpler way
 It calmed me that I had an idea on how to finish the part with the instructions, and I knew how to prepare the data for it.
 
 **Link(s) to work**: [Day 5 - Advent of Code 2022](https://adventofcode.com/2022/day/5)
+
+## Day 76: 2022-12-06
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1599996437462282240)
+
+**Today's Progress**: `#100DaysOfCode` Day 76
+
+I've completed "Tuning Trouble" - Day 6 - Advent of Code 2022 `#AdventOfCode` 
+
+Today I had great use of TDD in my AoC code, there were nice and not so nice test cases that helped me figure out what I missed at first
+
+9:43 ⭐️ 11:05 🌟
+
+**Thoughts**: I had some initial optimize step that helped. e.g I did not want to mess with the special case of the first N characters, so my for loop could be (c)lean. I knew I only need to care about the last N numbers so it made sense to use deque instead of a list for it. I played with the thought of having a counter, but I don't know its interface enough, I'll need to revisit it.
+
+**Link(s) to work**: [Day 6 - Advent of Code 2022](https://adventofcode.com/2022/day/6)
