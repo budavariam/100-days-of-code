@@ -1116,3 +1116,19 @@ Today I had great use of TDD in my AoC code, there were nice and not so nice tes
 **Thoughts**: I had some initial optimize step that helped. e.g I did not want to mess with the special case of the first N characters, so my for loop could be (c)lean. I knew I only need to care about the last N numbers so it made sense to use deque instead of a list for it. I played with the thought of having a counter, but I don't know its interface enough, I'll need to revisit it.
 
 **Link(s) to work**: [Day 6 - Advent of Code 2022](https://adventofcode.com/2022/day/6)
+
+## Day 77: 2022-12-07
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1600375388089176064)
+
+**Today's Progress**: `#100DaysOfCode` Day 77
+
+I've completed "No Space Left On Device" - Day 7 - Advent of Code 2022 `#AdventOfCode` 
+
+I did not choose the proper data structure for this, though I was lucky that there weren't too tricky requests. It just worked
+
+36:15 ⭐️ 49:17 🌟
+
+**Thoughts**: It scared me at first, started coding without thinking too much about how it should go. In retrospect I should have represented it in a graph form, and write a proper graph traversal
+
+**Link(s) to work**: [Day 7 - Advent of Code 2022](https://adventofcode.com/2022/day/7)
