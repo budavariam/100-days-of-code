@@ -1076,7 +1076,7 @@ The guy lasted for the whole task. Cheers for him...
 
 **Today's Progress**: `#100DaysOfCode` Day 74
 
-I played with `#AdventOfCode` 
+I played with `#AdventOfCode`
 
 For the first half I came up with the math formula quickly, for the second half I could not get it right at this time of the day, so I generated the ranges and looked at set intersections for quick win
 
@@ -1107,7 +1107,7 @@ It calmed me that I had an idea on how to finish the part with the instructions,
 
 **Today's Progress**: `#100DaysOfCode` Day 76
 
-I've completed "Tuning Trouble" - Day 6 - Advent of Code 2022 `#AdventOfCode` 
+I've completed "Tuning Trouble" - Day 6 - Advent of Code 2022 `#AdventOfCode`
 
 Today I had great use of TDD in my AoC code, there were nice and not so nice test cases that helped me figure out what I missed at first
 
@@ -1123,7 +1123,7 @@ Today I had great use of TDD in my AoC code, there were nice and not so nice tes
 
 **Today's Progress**: `#100DaysOfCode` Day 77
 
-I've completed "No Space Left On Device" - Day 7 - Advent of Code 2022 `#AdventOfCode` 
+I've completed "No Space Left On Device" - Day 7 - Advent of Code 2022 `#AdventOfCode`
 
 I did not choose the proper data structure for this, though I was lucky that there weren't too tricky requests. It just worked
 
@@ -1132,3 +1132,19 @@ I did not choose the proper data structure for this, though I was lucky that the
 **Thoughts**: It scared me at first, started coding without thinking too much about how it should go. In retrospect I should have represented it in a graph form, and write a proper graph traversal
 
 **Link(s) to work**: [Day 7 - Advent of Code 2022](https://adventofcode.com/2022/day/7)
+
+## Day 78: 2022-12-08
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1600749104040026113)
+
+**Today's Progress**: `#100DaysOfCode` Day 78
+
+I've completed "Treetop Tree House" - Day 8 - Advent of Code 2022 `#AdventOfCode`
+
+I got tricked by the indices to prepare for duplicates. For the second part I needed to completely rewrite my index generation logic
+
+33:20 ⭐️ 81:10 🌟
+
+**Thoughts**: This was the first day that I needed pan and paper. Note to self if it's taking many trials to debug I might not do it the right way. I should simplify the code and go foolproof iterative instead of smart tricky.
+
+**Link(s) to work**: [Day 8 - Advent of Code 2022](https://adventofcode.com/2022/day/8)
