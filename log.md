@@ -1148,3 +1148,19 @@ I got tricked by the indices to prepare for duplicates. For the second part I ne
 **Thoughts**: This was the first day that I needed pan and paper. Note to self if it's taking many trials to debug I might not do it the right way. I should simplify the code and go foolproof iterative instead of smart tricky.
 
 **Link(s) to work**: [Day 8 - Advent of Code 2022](https://adventofcode.com/2022/day/8)
+
+## Day 79: 2022-12-09
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1601091991244509185)
+
+**Today's Progress**: `#100DaysOfCode` Day 79
+
+I've completed "Rope Bridge" - Day 9 - Advent of Code 2022 `#AdventOfCode` 
+
+It was fairly straightforward. The description still had the whole algorithm.
+
+28:05 ⭐️ 38:43 🌟
+
+**Thoughts**: I'm starting to lose the enthusiasm to wake up early and compete with the company members. I'm still the one having the most points, it's just I start to feel like I can not concentrate in the morning.
+
+**Link(s) to work**: [Day 9 - Advent of Code 2022](https://adventofcode.com/2022/day/9)
