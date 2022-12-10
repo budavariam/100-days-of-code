@@ -1164,3 +1164,19 @@ It was fairly straightforward. The description still had the whole algorithm.
 **Thoughts**: I'm starting to lose the enthusiasm to wake up early and compete with the company members. I'm still the one having the most points, it's just I start to feel like I can not concentrate in the morning.
 
 **Link(s) to work**: [Day 9 - Advent of Code 2022](https://adventofcode.com/2022/day/9)
+
+## Day 80: 2022-12-10
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1601460753781096450)
+
+**Today's Progress**: `#100DaysOfCode` Day 80
+
+I've completed "Cathode-Ray Tube" - Day 10 - Advent of Code 2022 `#AdventOfCode` 
+
+I spend too much time debugging, and tried to fix my timeline logic, I should have wrote a simpler code for the first half
+
+49:00 ⭐️  64:27 🌟
+
+**Thoughts**: I don't think enough, takes me too long to understand the tasks... it's getting tiring too much, but getting through
+
+**Link(s) to work**: [Day 10 - Advent of Code 2022](https://adventofcode.com/2022/day/10)
