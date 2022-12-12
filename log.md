@@ -1155,7 +1155,7 @@ I got tricked by the indices to prepare for duplicates. For the second part I ne
 
 **Today's Progress**: `#100DaysOfCode` Day 79
 
-I've completed "Rope Bridge" - Day 9 - Advent of Code 2022 `#AdventOfCode` 
+I've completed "Rope Bridge" - Day 9 - Advent of Code 2022 `#AdventOfCode`
 
 It was fairly straightforward. The description still had the whole algorithm.
 
@@ -1171,7 +1171,7 @@ It was fairly straightforward. The description still had the whole algorithm.
 
 **Today's Progress**: `#100DaysOfCode` Day 80
 
-I've completed "Cathode-Ray Tube" - Day 10 - Advent of Code 2022 `#AdventOfCode` 
+I've completed "Cathode-Ray Tube" - Day 10 - Advent of Code 2022 `#AdventOfCode`
 
 I spend too much time debugging, and tried to fix my timeline logic, I should have wrote a simpler code for the first half
 
@@ -1180,3 +1180,19 @@ I spend too much time debugging, and tried to fix my timeline logic, I should ha
 **Thoughts**: I don't think enough, takes me too long to understand the tasks... it's getting tiring too much, but getting through
 
 **Link(s) to work**: [Day 10 - Advent of Code 2022](https://adventofcode.com/2022/day/10)
+
+## Day 81: 2022-12-11
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1601862581899116544)
+
+**Today's Progress**: `#100DaysOfCode` Day 81
+
+I've completed "Monkey in the Middle" - Day 11 - Advent of Code 2022 `#AdventOfCode`
+
+Today I slept well, and I have no regrets. I had a feeling that today's task is going to be crazier than usual.
+
+128:04 ⭐️  151:40 🌟
+
+**Thoughts**: The challange was hard to comprehend, but straightforward to implement
+
+**Link(s) to work**: [Day 11 - Advent of Code 2022](https://adventofcode.com/2022/day/11)
