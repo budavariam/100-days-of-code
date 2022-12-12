@@ -1196,3 +1196,19 @@ Today I slept well, and I have no regrets. I had a feeling that today's task is 
 **Thoughts**: The challange was hard to comprehend, but straightforward to implement
 
 **Link(s) to work**: [Day 11 - Advent of Code 2022](https://adventofcode.com/2022/day/11)
+
+## Day 82: 2022-12-12
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1602193757448929280)
+
+**Today's Progress**: `#100DaysOfCode` Day 82
+
+I've completed "Hill Climbing Algorithm" - Day 12 - Advent of Code 2022 `#AdventOfCode`
+
+I overslept a little. Upon starting, I immediately recognized that I'll need at least a breadth-first search
+
+61:47 ⭐️  70:02 🌟
+
+**Thoughts**: I'll need to create a helper for basic structures like bfs, a*, I'm reinventing the wheel every time
+
+**Link(s) to work**: [Day 12 - Advent of Code 2022](https://adventofcode.com/2022/day/12)
