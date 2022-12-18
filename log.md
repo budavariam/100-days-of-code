@@ -1212,3 +1212,20 @@ I overslept a little. Upon starting, I immediately recognized that I'll need at 
 **Thoughts**: I'll need to create a helper for basic structures like bfs, a*, I'm reinventing the wheel every time
 
 **Link(s) to work**: [Day 12 - Advent of Code 2022](https://adventofcode.com/2022/day/12)
+
+## Day 83: 2022-12-13
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1602551955657818112)
+
+**Today's Progress**: `#100DaysOfCode` Day 83
+
+I've completed "Distress Signal" - Day 13 - `#AdventOfCode` 2022
+
+Some things that I already knew but came in handy for today's task:
+
+- eval is not always evil
+- __le__ and __eq__ makes a py class sortable (see functools - total_ordering)
+
+44:01 ⭐️  65:13 🌟
+
+**Thoughts**:
