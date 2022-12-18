@@ -1224,8 +1224,20 @@ I've completed "Distress Signal" - Day 13 - `#AdventOfCode` 2022
 Some things that I already knew but came in handy for today's task:
 
 - eval is not always evil
-- __le__ and __eq__ makes a py class sortable (see functools - total_ordering)
+- __lt__ and __eq__ makes a py class sortable (see functools - total_ordering)
 
 44:01 ⭐️  65:13 🌟
 
 **Thoughts**:
+
+## Day 84: 2022-12-18
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1604570977689604098)
+
+**Today's Progress**: `#100DaysOfCode` Day 84
+
+I worked on my Crossword Puzzle. I added an option to the webcomponent, to let the developers specify the preferred layout orientation to be horizontal or vertical.
+
+On mobile vertical usually works better for me
+
+**Thoughts**: Finally I took the time to finish it
