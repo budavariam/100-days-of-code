@@ -1241,3 +1241,21 @@ I worked on my Crossword Puzzle. I added an option to the webcomponent, to let t
 On mobile vertical usually works better for me
 
 **Thoughts**: Finally I took the time to finish it
+
+## Day 85: 2022-12-30
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1608946931216310272)
+
+**Today's Progress**: `#100DaysOfCode` Day 85
+
+📖 I've added `@storybookjs`  to my crossword project
+
+👷 I've updated my React component to make it able to load any initial state externally
+
+🪲 I've added a known bug as a story to the Docs page
+
+⌛️ I hope I'll be able to reproduce bugs easier
+
+**Thoughts**: It felt nice to code a bit. The code is still a mess, but I could add this functionality without much change and only some new fields were needed.
+
+![None](assets/day-85.jpg)
