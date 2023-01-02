@@ -1259,3 +1259,19 @@ On mobile vertical usually works better for me
 **Thoughts**: It felt nice to code a bit. The code is still a mess, but I could add this functionality without much change and only some new fields were needed.
 
 ![None](assets/day-85.jpg)
+
+## Day 86: 2023-01-02
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1609984880250683395)
+
+**Today's Progress**: `#100DaysOfCode` Day 86
+
+🎉 One of my new year's resolutions was to personalize my task management flow, to figure out what works best for me
+
+🗝️ I decided to update the current one instead of starting from scratch
+
+♻️ As the first step, I will collect rolling tasks with awk
+
+**Thoughts**:
+
+![AWK script to collect the necessary lines](assets/day-86.jpg)
