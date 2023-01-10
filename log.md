@@ -1275,3 +1275,15 @@ On mobile vertical usually works better for me
 **Thoughts**:
 
 ![AWK script to collect the necessary lines](assets/day-86.jpg)
+
+## Day 87: 2023-01-10
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1612935065272553473)
+
+**Today's Progress**: `#100DaysOfCode` Day 87
+
+🎬 I've tried out the Interaction tests in `#storybook` for my crossword, it's smooooth
+
+✨ I've released a new version (0.0.12), that automatically uses the vertical layout for mobile, and developers can set their preferred format on their site
+
+**Thoughts**: It's working on firefox, not working on Chrome... strange... could be the device detector
