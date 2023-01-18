@@ -1287,3 +1287,19 @@ On mobile vertical usually works better for me
 ✨ I've released a new version (0.0.12), that automatically uses the vertical layout for mobile, and developers can set their preferred format on their site
 
 **Thoughts**: It's working on firefox, not working on Chrome... strange... could be the device detector
+
+## Day 88: 2023-01-18
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1615852704311508994)
+
+**Today's Progress**: `#100DaysOfCode` Day 88
+
+🇪🇸 To celebrate the first week of getting back to Spanish class, I've published the initial POC version of my Word Matching game for my Spanish learning class
+
+🦉 Inspired by Duolingo's Match Madness mini-game
+
+🚧 It's heavily under development
+
+**Thoughts**: Many things are still missing. Starting with the word randomizer.
+
+![Word matching game a pair of words are selected](assets/day-88.jpg)
