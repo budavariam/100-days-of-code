@@ -1303,3 +1303,17 @@ On mobile vertical usually works better for me
 **Thoughts**: Many things are still missing. Starting with the word randomizer.
 
 ![Word matching game a pair of words are selected](assets/day-88.jpg)
+
+## Day 89: 2023-01-22
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1617111165343264768)
+
+**Today's Progress**: `#100DaysOfCode` Day 89
+
+🧦 I improved my word-pairing game today
+
+🪟 I added fade out effect to the disappearing elements
+
+♻️ I've added a randomizer to the initial word list
+
+**Thoughts**:
