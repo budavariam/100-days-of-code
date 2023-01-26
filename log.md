@@ -1317,3 +1317,15 @@ On mobile vertical usually works better for me
 ♻️ I've added a randomizer to the initial word list
 
 **Thoughts**:
+
+## Day 90: 2023-01-26
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1618722940006322177)
+
+**Today's Progress**: `#100DaysOfCode` Day 90
+
+I've found a tutorial on how to turn my 11ty site into a PWA in 5 minutes. 
+
+So I spent the next 2 hours figuring out how to do it without those outdated packages, and with the latest 11ty version, that works with a subpath 🤣 `#workbox`
+
+**Thoughts**:
