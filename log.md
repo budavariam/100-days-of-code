@@ -1324,8 +1324,20 @@ On mobile vertical usually works better for me
 
 **Today's Progress**: `#100DaysOfCode` Day 90
 
-I've found a tutorial on how to turn my 11ty site into a PWA in 5 minutes. 
+I've found a tutorial on how to turn my 11ty site into a PWA in 5 minutes.
 
 So I spent the next 2 hours figuring out how to do it without those outdated packages, and with the latest 11ty version, that works with a subpath 🤣 `#workbox`
 
-**Thoughts**:
+**Thoughts**: It was frustrating, but the end result is satisfying
+
+## Day 91: 2023-01-29
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1619754314809114624)
+
+**Today's Progress**: `#100DaysOfCode` Day 91
+
+🔬 I utilized `#pytesseract` for Optical Image Recognition (OCR), and wrote a custom logic to handle my specific case of tabular data with some given constraints
+
+📚 Now I'm able to expand my word dictionary for my Spanish learning site from real dictionaries
+
+**Thoughts**: It was not simepl, but worth it in the long run
