@@ -1341,3 +1341,17 @@ So I spent the next 2 hours figuring out how to do it without those outdated pac
 📚 Now I'm able to expand my word dictionary for my Spanish learning site from real dictionaries
 
 **Thoughts**: It was not simepl, but worth it in the long run
+
+## Day 92: 2023-01-30
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1620180554972004352)
+
+**Today's Progress**: `#100DaysOfCode` Day 92
+
+I've improved my OCR code with a viz to create an annotated image of how my program interpreted the input data.
+
+Basically, the different columns are marked with separate colors in the happy path.
+
+In unsuccessful cases, I have an excellent debug helper.
+
+**Thoughts**: It has a bunch of room for improvement, though I try to aim for the ones with visible results. Pun intended.
