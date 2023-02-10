@@ -1355,3 +1355,19 @@ Basically, the different columns are marked with separate colors in the happy pa
 In unsuccessful cases, I have an excellent debug helper.
 
 **Thoughts**: It has a bunch of room for improvement, though I try to aim for the ones with visible results. Pun intended.
+
+## Day 93: 2023-02-10
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1624182871794544642)
+
+**Today's Progress**: `#100DaysOfCode` Day 93
+
+I fine-tuned my custom OCR logic today.
+
+🔝 Sometimes the order was messed up upon reading the items, so I added sorting by Y
+
+🛠️ Now that I have a working code, I started to make it more understandable
+
+📈 Refactored other parts to make it easier to expand
+
+**Thoughts**: I realised I could just read by lines, and not by character blocks, many of my logic might not be needed. There's a strange problem sometimes it does not know which is which column...
