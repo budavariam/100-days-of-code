@@ -1371,3 +1371,17 @@ I fine-tuned my custom OCR logic today.
 📈 Refactored other parts to make it easier to expand
 
 **Thoughts**: I realised I could just read by lines, and not by character blocks, many of my logic might not be needed. There's a strange problem sometimes it does not know which is which column...
+
+## Day 94: 2023-03-03
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1631773166237360128)
+
+**Today's Progress**: `#100DaysOfCode` Day 94
+
+🏗️ I generalized my `#python` dictionary `#ocr` script
+
+🪂 From now on it can handle pages with multiple paragraphs
+
+🗿Unknown artifacts still need manual preprocess. However it is a huge milestone. I was able to process 300 pairs in one go, as opposed to 40
+
+**Thoughts**: It felt really great, tried to make the code quality better as well. I'm happy with the algorithm I came up with by myself to detect the whitespace columns. It was also challenging to generalize my code to still keep the reading order, and not to connect the wrong values. While keeping the previous functionality to annotate the image and provide the results in a text file.
