@@ -1385,3 +1385,21 @@ I fine-tuned my custom OCR logic today.
 🗿Unknown artifacts still need manual preprocess. However it is a huge milestone. I was able to process 300 pairs in one go, as opposed to 40
 
 **Thoughts**: It felt really great, tried to make the code quality better as well. I'm happy with the algorithm I came up with by myself to detect the whitespace columns. It was also challenging to generalize my code to still keep the reading order, and not to connect the wrong values. While keeping the previous functionality to annotate the image and provide the results in a text file.
+
+## Day 95: 2023-03-11
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1634688906439413760)
+
+**Today's Progress**: `#100DaysOfCode` Day 95
+
+🎯 I added score and streak counter to my webcomponent-word-matcher lib
+
+👓 turn on with "showScore" property from v0.0.5
+
+💾 max values are saved, they show up in brackets if higher than the current score/streak
+
+⏪ reset max values by clicking on them
+
+**Thoughts**: It took way more time than expected. The code is a mess, I decided to hide the repo. It was fun implementing this change though.
+
+![None](assets/day-95.jpg)
