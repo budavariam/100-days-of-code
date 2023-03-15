@@ -1403,3 +1403,17 @@ I fine-tuned my custom OCR logic today.
 **Thoughts**: It took way more time than expected. The code is a mess, I decided to hide the repo. It was fun implementing this change though.
 
 ![None](assets/day-95.jpg)
+
+## Day 96: 2023-03-15
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1635947641585410051)
+
+**Today's Progress**: `#100DaysOfCode` Day 96
+
+🛗 As holiday recreational coding, I dusted off `#elevatorSaga`, and started to think about lift control algorithms
+
+🇪🇸 I updated my Hungarian - Spanish dictionary searcher to handle each keystroke. Feels way smoother
+
+**Thoughts**: Now I need to clean the dictionary data, and add my own words
+
+**Link(s) to work**: [Learning Spanish Szavak](https://budavariam.github.io/learning-spanish/szavak/)
