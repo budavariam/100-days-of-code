@@ -1417,3 +1417,17 @@ I fine-tuned my custom OCR logic today.
 **Thoughts**: Now I need to clean the dictionary data, and add my own words
 
 **Link(s) to work**: [Learning Spanish Szavak](https://budavariam.github.io/learning-spanish/szavak/)
+
+## Day 97: 2023-03-18
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1637051016687304704)
+
+**Today's Progress**: `#100DaysOfCode` Day 97
+
+📦 I simplified my npm package release process even more
+
+🪵 Created a python script to update the `#KeepAChangelog` file
+
+🤖 I tried `#promptEngineering` with `#ChatGPT` for the base. It was more tiring to get it to write the correct code than writing it myself
+
+**Thoughts**: It was fun that I did not have to worry about getting started, and create the wireframe, but I got frustrated that it removed code and recreated sections. I was not clear in my isntructions enough, it repeated code, added unnecessary regular expressions. It was a great journey for me, and at least it gave me ideas that I could use later in the code. I decided to take over control when if was almost working.
