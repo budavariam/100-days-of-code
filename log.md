@@ -1431,3 +1431,19 @@ I fine-tuned my custom OCR logic today.
 🤖 I tried `#promptEngineering` with `#ChatGPT` for the base. It was more tiring to get it to write the correct code than writing it myself
 
 **Thoughts**: It was fun that I did not have to worry about getting started, and create the wireframe, but I got frustrated that it removed code and recreated sections. I was not clear in my isntructions enough, it repeated code, added unnecessary regular expressions. It was a great journey for me, and at least it gave me ideas that I could use later in the code. I decided to take over control when if was almost working.
+
+## Day 98: 2023-03-20
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1637714299295498241)
+
+**Today's Progress**: `#100DaysOfCode` Day 98
+
+🤓 I've added a connection counter to my word-matcher. With two level of difficulties
+
+🧮 Easy tells you exactly how much connections can be made (see image)
+
+⚠️ Medium warns you more and more when less than half of the lines are pairs
+
+**Thoughts**: It was a fun way to solve a problem I faced, that it lowered my confidence that I did not know how much connections were there...
+
+![5 dots at the bottom, same as many lines are currently set up, not visible in the image. 3 of them are black marking the possible conenctions, and 2 of them are white.](assets/day-98.jpg)
