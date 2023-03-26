@@ -1447,3 +1447,17 @@ I fine-tuned my custom OCR logic today.
 **Thoughts**: It was a fun way to solve a problem I faced, that it lowered my confidence that I did not know how much connections were there...
 
 ![5 dots at the bottom, same as many lines are currently set up, not visible in the image. 3 of them are black marking the possible conenctions, and 2 of them are white.](assets/day-98.jpg)
+
+## Day 99: 2023-03-26
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1640056958144114690)
+
+**Today's Progress**: `#100DaysOfCode` Day 99
+
+🥷 I've added auto-ignore rules to my Timesheet helper page ⏲️ From now on I can immediately focus on the relevant hours. It's also saved to the browser
+
+🍽️ Categories like traveling and cooking won't need extra hide action anymore
+
+**Thoughts**: I did it a few days ago actually, but forgot to log it. It's immediately helpful, there are some clients/projects that I always hide, I might add a separate input for ignoring projects as well. It's almost time to make the code a bit nicer as well...
+
+**Link(s) to work**: [Time Tracker](https://budavariam.github.io/timesheet-helper/)
