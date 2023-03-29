@@ -1461,3 +1461,17 @@ I fine-tuned my custom OCR logic today.
 **Thoughts**: I did it a few days ago actually, but forgot to log it. It's immediately helpful, there are some clients/projects that I always hide, I might add a separate input for ignoring projects as well. It's almost time to make the code a bit nicer as well...
 
 **Link(s) to work**: [Time Tracker](https://budavariam.github.io/timesheet-helper/)
+
+## Day 100: 2023-03-29
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1640967314001608705)
+
+**Today's Progress**: `#100DaysOfCode` Day 100
+
+🦀 For this day I planned to start learning Rust
+
+🔬 Or even micropython
+
+💆 But life happened. I missed a massage appointment, so I wrote a google apps script to fetch the appointments from a doc, create calendar events, and also invite the one who booked
+
+**Thoughts**: This was one of the best coding sessions so far
